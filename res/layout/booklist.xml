@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+android:id="@+id/bookList"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+<LinearLayout
+android:id="@+id/LinearLayout1"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:orientation="vertical"
+>
+
+<ListView android:id="@+id/android:list"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"/>
+<TextView android:id="@+id/empty"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"/>
+android:text="No Data"/>
+<TextView
+android:id="@+id/TitleVal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+/>
+<TextView
+android:id="@+id/AuthorVal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+/>
+<TextView
+android:id="@+id/StatusVal"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+/>
+</LinearLayout>
+</ScrollView>
