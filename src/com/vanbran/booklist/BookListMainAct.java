@@ -61,8 +61,8 @@ public class BookListMainAct extends Activity {
         			authorFld = (EditText)findViewById(R.id.AuthorVal);
         			statusFld = (EditText)findViewById(R.id.StatusVal);
         			
-        			id = db.insertBook(titleFld.getText().toString(),
-        							   authorFld.getText().toString(),
+        			id = db.insertBook(authorFld.getText().toString(),
+        								titleFld.getText().toString(),
         							   statusFld.getText().toString());
         			
         			//Clear the fields

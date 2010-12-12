@@ -97,6 +97,10 @@ public class DBAdapter
 		Cursor cursor = db.rawQuery(qStr, null);
 		return cursor ;
 	}
+	
+	public boolean deleteBook(long rowId){
+		return db.delete(DB_TABLE, "_id" + "=" + rowId, null) > 0;
+	}
 }
 
 
