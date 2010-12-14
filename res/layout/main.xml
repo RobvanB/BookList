@@ -73,6 +73,13 @@ android:layout_height="wrap_content"
 android:text="Search"
 >
 </Button>
+<Button
+android:id="@+id/Load"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:text="Load"
+>
+</Button>
 </TableLayout>
 </LinearLayout>
 </ScrollView>

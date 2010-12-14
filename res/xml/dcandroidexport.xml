@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data-crow-objects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="dc_AndroidExport.xsd">
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Bryan Lee O&apos;Malley</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-10-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Scott Pilgrim&apos;s life is so awesome. He&apos;s 23 years old, in a rock band, &quot;between jobs,&quot; and dating a cute high school girl. Everything&apos;s fantastic until a seriously mind-blowing, dangerously fashionable, rollerblading delivery girl named Ramona Flowers starts cruising through his dreams and sailing by him at parties. But the path to Ms Flowers isn&apos;t covered in rose petals. Ramona&apos;s seven evil ex-boyfriends stand in the way between Scott and true happiness. Can Scott beat the bad guys and get the girl without turning his precious little life upside-down?</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>102391360373671</id>
+        <isbn-10>1932664084</isbn-10>
+        <isbn-13>9781932664089</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Scott Pilgrim, Vol. 1: Scott Pilgrim&apos;s Precious Little Life</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>168</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/102391360373671_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Oni Press</name>
+            </publisher>
+        </publishers>
+        <rating>9 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[9781932664089]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1932664084&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-10-02T21%3A15%3A35Z&amp;Version=2009-03-31&amp;Signature=WOd3acqirY%2BexqMZRyIW</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Scott Pilgrim, Vol. 1: Scott Pilgrim&apos;s Precious Little Life</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Scott-Pilgrim-Vol-Pilgrims-Precious/dp/1932664084%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1932664084</webpage>
+        <year>2004</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Motoro Mase</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-10-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Reads R to L (Japanese Style). Congratulations! You have been randomly selected by the government...to DIE in 24 hours! Featuring Episode 11: Life Papers&amp; Episode 12: The Truth ExposedEven if I die, I leave something alive behind.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>102426504480552</id>
+        <isbn-10>1421531666</isbn-10>
+        <isbn-13>9781421531663</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 6</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>232</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/102426504480552_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[9781421531663]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421531666&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-10-02T21%3A15%3A01Z&amp;Version=2009-03-31&amp;Signature=ZUuEBgHDb0eIn1KE4PnBZX</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 6</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-6/dp/1421531666%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421531666</webpage>
+        <year>2010</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Natsuo Kirino</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Thriller</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Nothing in Japanese literature prepares us for the stark, tension-filled, plot-driven realism of Natsuo Kirino’s award-winning literary mystery Out.
+
+This mesmerizing novel tells the story of a brutal murder in the staid Tokyo suburbs, as a young mother who works the night shift making boxed lunches strangles her abusive husband and then seeks the help of her coworkers to dispose of the body and cover up her crime. The coolly intelligent Masako emerges as the plot’s ringleader, but quickly discovers that this killing is merely the beginning, as it leads to a terrifying foray into the violent underbelly of Japanese society. 
+
+At once a masterpiece of literary suspense and pitch-black comedy of gender warfare, Out is also a moving evocation of the pressures and prejudices that drive women to extreme deeds, and the friendships that bolster them in the aftermath. -- review 1 -- I bought this due to the plethora of rave reviews. Boy was I disappointed. While some of the actions reminds one of a Coen Brothers script the book is overly long and at times excruciating boring. It amazes me that anyone would describe this work as well written. there were far too many examples of the narrator blatantly telling us what should have been left ot our own conclusions. In one instance a character with a spending problem is contemplating a purchase of a handbag which leads her to realize that if she makes this purchase she will need to buy shoes. Instead of leading the reader to make their own conclusions the author then spends two additional paragraphs telling us how one need for this character leads to another. 
+ 
+Worse still is the ending of the book which has a final and unbelievable twist that is so implausbile you will be tempted to through the book at the wall screaming I suffered through all these pages for this? -- review 2 -- After reading &apos;Grotesque&apos;, last year, I decided to give &apos;Out&apos; a try. I thought it got off to a very good start, as the reader is immediately immersed in the life of drudgery of the four main female characters, who work the nighshift in a boxed lunch factory, in the Tokyo suburbs. 
+ 
+The character development, particularly early on is very good, and the writing is vivid throughout. However, I felt after the inital murder, and body disposal, the novel became less interesting for me. I&apos;m not really sure why, as there were still a number of events unfolding in the storyline. Overall, though a fairly good, creepy novel. -- review 3 -- A story of 4 Japanese women and their desire to escape their mundane and repetitive lives in which they feel trapped. Kirino is an amazing author, and her novels leave you feeling like you know her characters on a personal lever. Beware that this book doesn&apos;t leave much to interpretation. I had nightmares for 2 nights after reading it. -- review 4 -- Expertly crafted characters created truly believable nuance in the friendships and tension between female leads in this dark blue collar Japanese thriller. I am eagerly awaiting my next Kirino read. -- review 5 -- I had never heard of the book or the author when I picked up &quot;Out&quot; on a whim. I was in one of those reading lulls where nothing I saw in the bookstore appealed to me. The fact that &quot;Out&quot; won the top prize in Japan intrigued me. I started reading it on a train ride and I was hooked almost instantly. Yes, it was dark and filled with carnage. But it was also a surprisingly touching story of female empowerment and survival. Kirino has the most remarkable ability to make each character - even the murderer - appealing in some way to the reader. The reader will find himself inside the minds and hearts of the characters as they all struggle to come to grips with a truly inconvenient murder. An incredible read!</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618106075089552</id>
+        <isbn-10>1400078377</isbn-10>
+        <isbn-13>9781400078370</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Out: A Novel</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618106075089552_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vintage</name>
+            </publisher>
+        </publishers>
+        <rating>9 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1400078377]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1400078377&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Out: A Novel</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Out-Novel-Natsuo-Kirino/dp/1400078377%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1400078377</webpage>
+        <year>2005</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Charley Boorman</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>-- review 1 -- Due to scheduling complications with the ferry for the first 1/3rd of the trip, Long Way Down (LWD) had a rushed and more stressful feel to it in comparison to Long Way Round. This led to a slightly less enjoyable experience for the reader/viewer in my opinion. 
+ 
+Nevertheless, this voyage is still Ewan and Charley at their best. These guys enjoy motorcycling and traveling on them so much that they make the best out of any situation. 
+ 
+The way they document the trip is so honest, and really opens you up to their personalities - something you rarely get to see with famous people. It&apos;s so honest and humble, yet funny and appropriately opinionated at the same time. The quality of the book - the editing, the photos and the writing are superb in their natural style. 
+ 
+The fact that they take time to do charity work as well as show the world things that most choose to ignore is wonderful. Plus, like the LWR trip - it&apos;s an incredible way to show the beauty of our world and politeness of so many of the people in it. 
+ 
+The books and movies are true magic on film - whether or not you like motorcycles or not (i am obsessed), it is nearly impossible to not fall in love with these two guys and their journey of a lifetime. -- review 2 -- Story too rushed, deadlines forcing abbreviated adventure. Too bad they didn&apos;t take their time and tell the full story. Experienced bikers know mistakes were made, making the trip more hazardous and difficult than necessary. Nonetheless, it was a sometimes heartwarming and sometimes frustrating read about an expedition few would undertake. -- review 3 -- I watched the videos of this and &quot;Long Way Round&quot; and read both books. I thought &quot;Long Way Round&quot; was better, but this was still well worth reading. Ewan and Charlie have a good chemistry and it comes through in the book. The only thing I would have liked to have seen done differently is to have a little more of the support characters such as Russ and Dave involved. The cameraman almost disappeared entirely and he was pretty prominent in the last book. 
+ 
+Still an enjoyable read. -- review 4 -- Loved this journey by motorcycle. DVD was wonderful. You wouldn&apos;t believe the hardships involved in this trip -- review 5 -- Great book and an easy read. Love the story. Both McGregor and Boorman write in a log entry style and this gives the book a real life feel. I am looking to see the DVD. If you love motorcycles and travel this is a new adventure awaiting.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618122660689522</id>
+        <isbn-10>1847440525</isbn-10>
+        <isbn-13>9781847440525</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Long Way Down</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618122660689522_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Little, Brown Book Group</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1847440525]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1847440525&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Long Way Down</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Long-Way-Down-Charley-Boorman/dp/1847440525%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1847440525</webpage>
+        <year>2007</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Cory Doctorow</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>&lt;DIV &lt;DIV &lt;DIV Marcus, a.k.a “w1n5t0n,” is only seventeen years old, but he figures he already knows how the system works–and how to work the system. Smart, fast, and wise to the ways of the networked world, he has no trouble outwitting his high school’s intrusive but clumsy surveillance systems.
+
+But his whole world changes when he and his friends find themselves caught in the aftermath of a major terrorist attack on San Francisco. In the wrong place at the wrong time, Marcus and his crew are apprehended by the Department of Homeland Security and whisked away to a secret prison where they’re mercilessly interrogated for days.
+
+When the DHS finally releases them, Marcus discovers that his city has become a police state where every citizen is treated like a potential terrorist. He knows that no one will believe his story, which leaves him only one option: to take down the DHS himself.&lt;/DIV  -- review 1 -- This is an incredible book, and you should certainly purchase it. The book literally left me with chills when I finished. 
+ 
+It is well written and fast-paced, despite the fact that it explores complex themes and contains interesting information about cryptography and computer science. 
+ 
+I can see reading this when younger, and being compelled to a different career path than the one I chose. Who knows, perhaps I will still change paths?! -- review 2 -- After reading a lot of Cory Doctorw&apos;s writing on Boing Boing for years I finally decided to get myself a copy of one of his pieces of fiction. I understood that the book is aimed at the &apos;Young Adult&apos; demographic and was expecting something a little less &apos;mature&apos; than other books I&apos;d been reading of late. This left me pleasantly surprised. Whilst the book certainly had a few &apos;teen&apos; themes (virginity, underage drinking, etc) the overall theme of the book is one that affects us all, more and more throughout our daily lives. 
+ 
+The books title, Little Brother with it&apos;s obvious connotations to Orwell&apos;s masterpiece 1984 is very appropriate. Whilst this book might not be as revolutionary as 1984 it certainly will bring the themes and ideas to a new and younger audience whilst updating the story to closer reflect changes in society since 1984 was originally published in 1949. -- review 3 -- I enjoyed this book much more than I expected to, as it isn&apos;t the usual genre I read but this was a selection for our book club. I was engaged by the character of Marcus and his actions were easy to understand given what happened to him. 
+The computer hacking and technology creations were well explained and, for a person with no computer programming abilities, I was able to keep up with what Marcus was doing even if I couldn&apos;t tell you exactly how he was doing it. 
+The contrast between his parents feelings and his about the events that were happening around them and Marcus understanding of what his imprisonment had done to them, particularly his father and how that motivated his actions was well done. Marcus wasn&apos;t a self-centered teenager but was thinking of others beside himself. 
+I don&apos;t want to say too much and give spoilers but if you are looking for a thought-provoking read, outside of the usual storylines, you&apos;re sure to enjoy this book. -- review 4 -- Doctorow had all the right ideas in writing this book. Through his fictionalized account of a terrorist attack on San Francisco&apos;s Bay Bridge and BART system, and the resultant crackdown on the city by the Department of Homeland Security, Doctorow tries to paint a picture of what can happen when the zeal for security bests protection for civil liberties. 
+ 
+Unfortunately, his excellent point is drowned out by his heavy-handed sermonizing. Anyone reading this book will probably already understand the danger of protecting America by taking away civil liberties, so Doctorow is preaching to the choir to begin with. To hammer in his message so emphatically is somewhat insulting to his readers&apos; intelligence. More subtlety would have made this both a better book as well as a more effective one. -- review 5 -- Doctorow&apos;s book looks at a possible future in which the excesses of &quot;enhanced interrogations&quot; are visited upon US citizens by the Department of Homeland Security after a terror attack. The book follows a precocious 17-year-old and his friends who are caught in the wrong place at the wrong time. 
+ 
+While the book makes villains out of America&apos;s right wing as perpetrators of making a terrorist attack serve as an excuse to take over, I wonder if Doctorow might change his tune now that we have a White House Chief of Staff who&apos;s said that a crisis must not be wasted? 
+ 
+Despite my political misgivings, I enjoyed the book and concur with Doctorow&apos;s observations regarding how security measures almost always inconvenience the innocent and miss the guilty.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618182407424253</id>
+        <isbn-10>0765319853</isbn-10>
+        <isbn-13>9780765319852</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Little Brother</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618182407424253_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Tor Teen</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[little brother]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=0765319853&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Little Brother</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Little-Brother-Cory-Doctorow/dp/0765319853%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0765319853</webpage>
+        <year>2008</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Koushun Takami</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Battle Royale, a high-octane thriller about senseless youth violence, is one of Japan&apos;s best-selling - and most controversial - novels. As part of a ruthless program by the totalitarian government, ninth-grade students are taken to a small isolated island with a map, food, and various weapons. Forced to wear special collars that explode when they break a rule, they must fight each other for three days until only one &quot;winner&quot; remains. The elimination contest becomes the ultimate in must-see reality television. A Japanese pulp classic available in English for the first time, Battle Royale is a potent allegory of what it means to be young and survive in today&apos;s dog-eat-dog world. The first novel by small-town journalist Koushun Takami, it went on to become an even more notorious film by 70-year-old gangster director Kinji Fukusaku. -- review 1 -- I thought this was a great book. I would recommend to anyone that is into bloodsport books. -- review 2 -- Simply amazing, EVERYONE SHOULD READ THIS!!!!!!! Even if you don&apos;t like books from this genre you have to read this. I think this book should be a required read for any American citizen. It has really given me a great idea of who to trust in life and why our world is so corrupt. This has left a HUGE impact on my life and I will read this book once every single year. Has outstanding character, plot, and setting. But whatever you do, DON&apos;T READ THE MANGA VERSION FIRST!!!!! I believe that it completely destroys what the story is about and leads people to believe the wrong things this book is trying to teach. If you do read the book and enjoy it, give the movie a try before touching the manga, the movie has left out a lot of details, and has some flaws, but is still a good watch and brings the characters to life even more. The movie is a Japanese made and directed film and you may have to do some searching to find it. I suggest going onto www.watchmovies.net because you can just type in the name BATTLE ROYALE in the search box and you can watch the whole thing on there. If you have a Netflix account they have it on their DVD list and I would definently check it out. I sincerely hope you enjoy this and hope it leaves as much of an impact on you as it has left on me. -- review 3 -- This is really more of 3.5 stars. 
+I picked up this book because I loved The Hunger Games by Suzanne Collins and I heard this Japanese book was very similar to it or The Hunger Games was similar to it. Battle Royale wasn&apos;t bad but I much preferred The Hunger Games. This one had way too many characters to keep track of (there were over 40 students) and there were too many mini story lines coming out as each student is killed. It was kind of funny in a morbid sort of way that some of the weapons the students are given are forks or sticks. Talk about raw deal when other students are given machine guns. If you enjoyed The Hunger Games and have time on your hands(Battle Royale is over 600 pages long) this is a nice complement to it. -- review 4 -- I came with high expectations when purchasing the novel in Barnes &amp; Noble, and I think that was my first mistake. 
+ 
+The book has an interesting idea as a premise; kill your classmates/friends in order to survive a government-run program. I get it. But after the first couple of deaths, all the pretty blood and guns simply meshed together in the book. Character growth in this story is almost obsolete; save for the one time Noriko actually gets a gun and reloads it(gasp!). 
+It limps and staggers by simply offering the reader cliches and an overabundance of Mary-Sue&apos;s, weak or imbalanced women and one gay steroetype that I&apos;m sure is as equally offensive. The book is hard to read not because of so many long words, but because of so many needless adjectives and sentences (Who needs to know what direction the object is pointing when he gives it to the boy?) 
+The book does have some allegorical truth to it, but the authors writing killed it. (no pun intended) -- review 5 -- It was a excellent book since Harry Potter series, it the first book I can keep it close until it was finish. Do not hesitate to bought it its incredible.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618341840924505</id>
+        <isbn-10></isbn-10>
+        <isbn-13></isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Battle Royale</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618341840924505_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating>9 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[156931778x]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=156931778X&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Battle Royale</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Battle-Royale-Koushun-Takami/dp/156931778X%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D156931778X</webpage>
+        <year>2003</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Warren Ellis</name>
+            </author>
+            <author>
+                <name>Darick Robertson</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>-- review 1 -- Warren Ellis, Transmetropolitan: Year of the [censored for Amazon consumption] (Vertigo, 1999) 
+ 
+As a non-review note, it&apos;s really kind of ludicrous--the kind of thing Spider Jerusalem would be amused by, no doubt--that this review got redlined for me putting the title of the book in the header. Do something about the sillier aspects of your filters, Amazon, plzkthx. 
+ 
+In its third volume, Transmetropolitan managed to do something I didn&apos;t think it could: get even funnier. Feeling the old ennui creeping back in, Spider pumps himself full of everything known to man (and some things that aren&apos;t). His editor snags him a new assistant, but with a catch: she&apos;s his niece, which will (hopefully) stop Spider from doing the same things that have caused him to lose his other assistants over the years. Fat chance. How, Ellis asks us, to find meaning in a meaningless world? I&apos;m not entirely sure he&apos;ll ever come up with an answer, but it&apos;s certainly fun to watch him try. **** 
+ -- review 2 -- An awesome book that one just cannot put down. Warren Ellis does such a good job of controlling the seriousness and comic relief of this book. Just when you think Spider can&apos;t do anything crazier he does it, and it is believable too. In this volume we dig deeper into the Spider Jerusalem character and the dsytopia he lives in. Robertson&apos;s art is perfect this story. If you liked the first two volumes pick up year of the bastard and you will not be disappointed. -- review 3 -- can&apos;t get enough Ellis. Smart, relevant, the way a sci-fi Hunter S Thompson homage ought to be. -- review 4 -- Warren Ellis has created a fictional world that in many ways resembles ours. Warren has a lot of guts. He probably is on the hit list of the KKK, The American Nazi Party, The Religious Right Wing, and The Arm White Militia e.g. The Oklahoma Federal Building Bombers and all Jingoistic Americans that believe we are a Militaristic Empire. We are the new Conquistadors/Conquerer of the world. Amazon&apos;s books were in mint condition as usual. They are still the best online store on the internet. -- review 5 -- Spider Jerusalem&apos;s old vices surface again. Namely, politics and drugs, and he indulges in a lot of both. He writes a lot about politics, and does a lot of drugs. 
+ 
+He is annoying the political powers now, and this is enough to get someone he likes killed.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618402693360298</id>
+        <isbn-10>1840232935</isbn-10>
+        <isbn-13>9781840232936</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Transmetropolitan : Year of the Bastard (Vol 3)</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618402693360298_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Titan Books Ltd</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1840232935]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1840232935&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Transmetropolitan : Year of the Bastard (Vol 3)</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Transmetropolitan-Year-Bastard-Warren-Ellis/dp/1840232935%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1840232935</webpage>
+        <year>2001</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Philip K. Dick</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>It&apos;s America in 1962--where slavery is legal and the few surviving Jews hide anxiously under assumed names; all because twenty years earlier America lost a war and is now occupied jointly by Nazi Germany and Japan. -- review 1 -- Philip K. Dick can be difficult to read. He doesn&apos;t give you a lot of backstory; you plunge right into the story and have to figure out what&apos;s going along as you read. But if you persist, the kaleidescope of fragmented scenes eventually starts to shake itself into a visible image. It&apos;s a composition skill that I admire. When I write, I always overexplain; you have to have a lot of confidence in yourself and in your readers to write as he does. 
+ 
+In one way, The Man in the High Castle is intriguing because it so clearly lent its techniques and strategies to an entire genre. Alternative history existed before this novel, but almost every alternative history that follows it owes Philip K. Dick a debt. By coincidence I just finished watching the prematurely-cancelled TV series Jericho, and was struck by the number of ways in which the episodes pay homage to this book. 
+ 
+As a stand-alone work, the book fascinates by circling around and around the idea of reality. There are three political realities in the book: the one in the reader&apos;s mind (ours), the one in which the characters live (a world divided between Japanese and German control), and the one constructed by the Man in the High Castle&apos;s novel-within-a-novel; the Allies triumph in his book, but there are significant differences between that triumph and the one that we know. A secondary plot involves the sale of &quot;genuine historical artifacts,&quot; American items from before the war, and by the end of the book we are forced to question seriously what &quot;genuine&quot; means. And almost every character has a double identity: which one is &quot;real&quot;? 
+ 
+Philip K. Dick even manages to question his own skills, channeling James Wood at the same time that he laughs at high-brow pretensions. &quot;Amazing, the power of fiction, even cheap popular fiction to evoke,&quot; one of the German victors thinks to himself after reading the Man in the High Castle&apos;s novel. &quot;They know a million tricks, these novelists....Yes, the novelist knows humanity, how worthless they are...swayed by cowardice, selling out every cause because of their greed-all he&apos;s got to do is thump on the drum, and there&apos;s his response. And he laughing, of course, behind his hand at the effect he gets.&quot; 
+ 
+The minus is because Philip K Dick is not much on character development; he&apos;s a plot and theme man, and there&apos;s not a lot of psychological reality to his people. Which is fine. Take the novel on its own terms. -- review 2 -- What makes The Man in the High Castle so compelling is that it portrays a bleak alternate reality that could very well have come to pass. What many people in the modern age forget is that the Axis powers of Nazi Germany, Japan and Italy, very nearly won WWII. Furthermore, the United States was not always the dominant power that it is today. In fact, prior to WWII the global military might of the U.S. was just ranked at the bottom of the top 5. It was only after WWII, when the U.S. allowed Nazi German rocket scientists to become citizens and work on our missile program, that we became the world&apos;s only Super Power. 
+ 
+Given these circumstances, in some ways it seems amazing that no one came up with the idea of writing a book with this same premise before Philip K. Dick. But at the same time, even in today&apos;s modern age, his concept of a conquered, divided U.S. still feels fresh, new, and counterintuitive, all at the same time. PKD was truly a genius and The Man in the High Castle is among his greatest works. I have read this book twice over the years and it still continues to amaze me with its insight into a world that could have been if things had gone just a little differently. 
+ 
+There are a number of additional aspects that make The Man in the High Castle so gripping. PHD&apos;s ability to capture the true paranoia and collective hysteria of Hitler and other specific key figures in the Nazi German regime, and envision what the U.S. and the rest of the world would have become under these circumstances, feels authentic yet mind bending. Nazi German conquerors rule the East coast of the U.S. and the Japanese have the West coast. But the depicted different ways in which they control, repress and influence native U.S. citizens are indeed facinating. The elements of native U.S. people utilizing the historical Chinese book, the I Ching, to make decisions in daily life, ideas of determination versus fate etc. are all unique aspects conceptualized by PKD. Finally, the idea that there is an author that has written a book banned by the Nazi German regime fantasizing about an alternate reality where the Allied powers of the U.S. and Britain had won WWII (that is not exactly like our reality today) is, in a word, brilliant. 
+ 
+In conclusion, there is no denying that Philip K. Dick was a visionary. Like many of PKD&apos;s books, one central theme in The Man in the High Castle is a questioning of what we know as reality. They say history is written by the victors, but what if the victors had been different...? 
+ -- review 3 -- I just read this book for the second time, and I still can&apos;t follow all the intricacies of the plot or say clearly what happened and why. In other words, it&apos;s just like everyday life. There is no clear protagonist, no clear resolution, and the plot is incomplete to say the least, just a small, partial segment of an extremely complex/intricate ongoing process -- just like real life. The book is loaded with oblique humor and incisive description of the human condition. As other reviewers have said, Dick can really get into peoples&apos; heads and minutely describe their experiences in a fascinating, believable way. It is 15 or so years after a WWII that was won by the Axis powers. There is a struggle for power among the brutal Nazi leadership that might ultimately bring about the end of the world. The thoughtful civility of the one ruling race (the Japanese) is contrasted against the mad, ruthless machinations of the other (the Germans). The Americans are minor bit players in the new world picture, but a bestseller circulates in what remains of America that is an alternate history novel wherein the Americans and British are victors. Yet, this alternate history is not ours either. And, perhaps in a third reality is the story of the man who wrote the novel, who may be a paranoid schizophrenic type from our reality who may have dreamed up the other two realities. This man (Dick himself?) has used the random process of I Ching to create the novel that embeds the other two realities, but perhaps now has become anxious that what he has created by this process has somehow become real. In other words, this novel may be completely true, in a sense. 
+ 
+Maybe I&apos;ll figure out more when I read it again... -- review 4 -- PKD&apos;s recent literary resurgence has led to a (long overdue) reconsideration of his work. The Man In The High Castle won the Hugo Award, and is often sighted as among his best novels. And while the premise is certainly intriguing, the book is exceedingly poorly written - and not in a pulpy, so-bad-it&apos;s-good kind of way. PKD was a great risk taker as a writer and he deserves credit for that; he has written some fantastic, delirious and chaotic books that defy easy categorization (A Scanner Darkly is a great place to start), but this isn&apos;t one of them. -- review 5 -- Dick&apos;s novel is set in an alternative present where the Axis powers won WWII and the Japanese have taken over the Pacific states. Dick&apos;s eerily believable world is full of paranoia, which is what Dick does best. The only problem I had with the novel is that it is really about a group of people who are only loosely connected and their stories never converge.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618405562163420</id>
+        <isbn-10>0679740678</isbn-10>
+        <isbn-13>9780679740674</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>The Man in the High Castle</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618405562163420_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vintage</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[man in high castle]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=0679740678&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>The Man in the High Castle</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Man-High-Castle-Philip-Dick/dp/0679740678%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0679740678</webpage>
+        <year>1992</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>William Eisner</name>
+            </author>
+            <author>
+                <name>Will Eisner</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>A collection of Will Eisner&apos;s seminal work dating from the 1940s. This book contains six stories especially revised by the author for this paperback format.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618448616677975</id>
+        <isbn-10>1852861649</isbn-10>
+        <isbn-13>9781852861643</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>The Spirit Paperback</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front></picture-front>
+        <publishers>
+            <publisher>
+                <name>Eros Plus</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1852861649]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1852861649&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>The Spirit Paperback</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Spirit-Paperback-William-Eisner/dp/1852861649%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1852861649</webpage>
+        <year>1992</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Philip K. Dick</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Bob Arctor is a dealer of the lethally addictive drug Substance D. Fred is the police agent assigned to tail and eventually bust him. To do so, Fred takes on the identity of a drug dealer named Bob Arctor. And since Substance D--which Arctor takes in massive doses--gradually splits the user&apos;s brain into two distinct, combative entities, Fred doesn&apos;t realize he is narcing on himself.
+
+Caustically funny, eerily accurate in its depiction of junkies, scam artists, and the walking brain-dead, Philip K. Dick&apos;s industrial-grade stress test of identity is as unnerving as it is enthralling. Mind- and reality-bending drugs factor again and again in Philip K. Dick&apos;s hugely influential SF stories. A Scanner Darkly cuts closest to the bone, drawing on Dick&apos;s own experience with illicit chemicals and on his many friends who died from drug abuse. Nevertheless, it&apos;s blackly farcical, full of comic-surreal conversations between people whose synapses are partly fried, sudden flights of paranoid logic, and bad trips like the one whose victim spends a subjective eternity having all his sins read to him, in shifts, by compound-eyed aliens. (It takes 11,000 years of this to reach the time when as a boy he discovered masturbation.) The antihero Bob Arctor is forced by his double life into warring double personalities: as futuristic narcotics agent &quot;Fred,&quot; face blurred by a high-tech scrambler, he must spy on and entrap suspected drug dealer Bob Arctor. His disintegration under the influence of the insidious Substance D is genuine tragicomedy. For Arctor there&apos;s no way off the addict&apos;s downward escalator, but what awaits at the bottom is a kind of redemption--there are more wheels within wheels than we suspected, and his life is not entirely wasted. --David Langford, Amazon.co.uk -- review 1 -- As an above reviewer wrote &apos;Write what you know&apos;(Hemmingway). Plumbing the depths is sometimes what life&apos;s experiences are all about. I would rate this as a better novel for modern high school students than &quot;Catcher. . .&quot; 
+ 
+ ( I feel the wrath of Catcher fans upon me) 
+ 
+I feel this way because the experiences teens now face are much more immediate, intrusive, demoralizing and destructive. This is one book that may ring true with them in its honesty. I don&apos;t mean to replace any other book with it, only to add it to the school shelves. 
+ 
+ If you, like me, lost friends to a tragic scurge, read it. Share it. -- review 2 -- This book is easily one of PKD&apos;s best. It is certainly his most paranoid as far as I know. The storyline is fascinating, the writing is supurb, and the characters are excellent. In my opinion, the only PKD work that matches this one is Valis. Like VALIS, this one contains a number of things that actually happened, and those elements add a layer of beleivability to the story, despite its unreal nature. Indeed, VALIS even quotes this book in some places to show how PKD used real incidents in his novels. 
+ 
+It is one of the few books where the movie stands out as well as the book, too. The movie is different in a significant number of places, but the changes made perfect sense and did not diminish the overall feel. If you liked the movie you will like the book, if you didn&apos;t like the movie, you won&apos;t like the book. -- review 3 -- I don&apos;t think I would have ever picked up A Scanner Darkly by Phillip K. Dick but as luck would have I enrolled in a Sci-fi class and it was a required reading. The story is about a man named Bob Arctor, aka &quot;Fred,&quot; and his mind wrecked roommates who are strung out on a drug called Substance D. I found it to be a great trip, no pun intended, through the human mind on drugs, mental illness on drugs, and the severe paranoia in a way that was at times humorous, and quite entertaining. I enjoyed the book immensely and I would recommend it to everyone, even if you are not a Sci-fi fan. -- review 4 -- Phillip K. Dick&apos;s A Scanner Darkly, is an amazingly dystopic science fiction novel that everyone should read. His use language and descriptions of southern California are a real treat especially if you happen to have ever lived there. The story follows Bob Arctor, who loses himself to Substance D, a drug that is taking over the surrounding communities. The book questions reality, identity and the role substances play in our society and interactions with other people. By the end of the book you are asking yourself what your own identity is and whether or not you are doing what you truly desire. Imaginative, compelling and at times comical, A Scanner Darkly is a must read for science fiction lovers and anyone who likes to take a good look at themselves and society. -- review 5 -- Paul Giamatti&apos;s reading of this book is brilliant. He captures the humor, the insanity, and the tragedy of this sad tale completely. His voice acting ability is remarkable and has spoiled the other CDs that I own of the PKDick books. It was never difficult to discern who was speaking, male or female. I highly recommend this CD for the original work and for this audio version. Mr. Giamatti please read more of PKD works for us. Please! I can also recommend the Keir Dullea readings of the short story collection, Minority Report, but Giamatti&apos;s skills are incomparable.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618483827651855</id>
+        <isbn-10>1400096901</isbn-10>
+        <isbn-13>9781400096909</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>A Scanner Darkly</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618483827651855_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vintage</name>
+            </publisher>
+        </publishers>
+        <rating>9 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1400096901]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1400096901&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>A Scanner Darkly</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Scanner-Darkly-Philip-K-Dick/dp/1400096901%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1400096901</webpage>
+        <year>2006</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Philip K. Dick</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>What if you discovered that everything you knew about the world was a lie? That’s the question at the heart of Philip K. Dick’s futuristic novel about political oppression, the show business of politics and the sinister potential of the military industrial complex. This wry, paranoid thriller imagines a future in which the earth has been ravaged, and cities are burnt-out wastelands too dangerous for human life. Americans have been shipped underground, where they toil in crowded industrial ant hills and receive a steady diet of inspiring speeches from a President who never seems to age. Nick St. James, like the rest of the masses, believed in the words of his leaders. But that all changes when he travels to the surface—where what he finds is more shocking than anything he could possibly imagine.
+
+Winner of both the Hugo and John W. Campbell awards for best novel, widely regarded as the premiere science fiction writer of his day, and the object of cult-like adoration from his legions of fans, Philip K. Dick has come to be seen in a literary light that defies classification in much the same way as Borges and Calvino. With breathtaking insight, he utlizes vividly unfamiliar worlds to evoke the hauntingly and hilariously familiar in our society and ourselves. -- review 1 -- First of all, in case it isn&apos;t clear, &quot;the penultimate truth&quot; literally means &quot;the next-to-last truth&quot;. Whatever that means. 
+ 
+Philip K. Dick rarely chose his own titles, but in most cases whoever chose them did a pretty good job - &quot;The Three Stigmata of Palmer Eldritch&quot; and &quot;Do Androids Dreams of Electric Sheep?&quot; come to mind. 
+ 
+Not this time. One of the characters here makes a passing reference to the &quot;ultimate truth,&quot; which has something to do with the use of assassination as the tactic of last resort, but no one ever specifies what the &quot;penultimate truth&quot; might be. Don&apos;t worry, though - lousy title notwithstanding, this is a good example of PKD at the top of his middle game. 
+ 
+Like a lot of his contemporaries, PKD considered the possibility of nuclear annihilation on a fairly regular basis. It was 1963, after all, and the Cuban Missile Crisis was still fresh in everyone&apos;s mind. So, in the mold of H.G. Wells in &quot;The Time Machine,&quot; he gives us with this book a world split in two, this time by nuclear war. A privileged few live above ground in luxury, with robots (or &quot;leadies&quot;, here) catering to their every whim. The mass of deprived workers lives in underground &quot;tanks&quot; laboring, as they think, to support the war effort raging above them. 
+ 
+Actually, of course, they&apos;re laboring to ensure a comfortable lifestyle for the surface dwellers. The difference is that in this setup, the surface dwellers actively strive to keep the buried workers in ignorance as to the true nature of reality. The war has been over practically since it began, but the surface dwellers send broadcasts to the tankers about the allegedly ongoing devastation. They concoct elaborate special effects to show how awful things are, and program a lifelike android to deliver hopeful speeches under the name of President Talbot Yancy. 
+ 
+PKD&apos;s treatment of this material is pretty standard stuff. Yes, someone escapes from the tanks and emerges into the light - his name is Nicholas St. James and he&apos;s desperate enough to climb up to what he thinks is a hopelessly poisoned world because his tank faces certain doom if he doesn&apos;t. Very heroic. By contrast, the surface-dweller Joseph Adams makes his living as one of the speechwriters for the Yancy android. He lives on hundreds of acres, like all of his colleagues, but his luxurious surroundings do him no good at all. In effect, he&apos;s an advertising copywriter, subject to the whims of office politics and an unusually grotesque totalitarian dictator. He will never be a hero. So the question is, with whom do PKD&apos;s sympathies lie, and with whom should ours lie? 
+ 
+The answer is, with both - things are never that simple in Philip K. Dick&apos;s novels. For a man with the wildest imagination in SF, he was in many ways a realist. So St. James crawls to the surface, not because he&apos;s a real hero and ready to cast aside his personal safety in the interests of his people, but because his people threaten to execute him and his entire family if he doesn&apos;t. In the same way, Adams goes up against the aforementioned psycho dictator, not to increase his personal power, but because the dictator is about to do something unjust and Adams has had enough. This is a paranoid post-apocalyptic Earth, but as in the world we know, the people act out of a mixed bag of motives. The story is all the more powerful for that. 
+ 
+What keeps &quot;The Penultimate Truth&quot; from the top rank of PKD&apos;s fiction is, as usual with this author, a result of his faster-than-light production technique. The novel isn&apos;t exactly sloppy, but it is a trifle misshapen. Some details don&apos;t quite mesh, such as a time machine that works only backwards in early chapters, and seems to work forwards in later chapters. The author sometimes drags things onstage for no discernable reason, and leaves other things offstage that we really want to see. And it&apos;s a little disappointing to start the book with some genuinely fascinating political allegory, and see it turn about halfway through into what amounts to an old-fashioned action-adventure chase. I mean, what is this, a Hollywood movie? 
+ 
+Only to be expected, really. In his afterword to the Blue Jay edition of &quot;The Penultimate Truth,&quot; the late Thomas Disch described PKD&apos;s work habits as &quot;downhill racing&quot;. Not a bad description - he wrote as though he had to reach the finish line immediately, and left himself no time for cleaning up the loose ends. If we make allowances for that, &quot;The Penultimate Truth&quot; provides at least two things to be thankful for. 
+ 
+First, there&apos;s a character here with apparently Godlike powers, but unlike too much SF (including some of PKD&apos;s), that character doesn&apos;t pop up and save everything at the end. He tries to, but events and other characters conspire to limit his power grab. Good thing, too -who needs to just exchange one dictator for another, however benign? 
+ 
+Second, even with all these world-shattering events whirling around overhead, PKD concentrates on how people might actually respond to them, rather than adopting the bird&apos;s-eye view of regular action-adventure stories. Joseph Adams, for instance, begins &quot;The Penultimate Truth&quot; looking out the window of his enormous estate as the fog rolls in over the Pacific Ocean, and he grieves because he&apos;s feeling lonely. Now, I ask you: How many other SF writers would have stopped to consider that one of the world&apos;s kings might be lonely? Let alone in a post-apocalyptic thriller? That, if you please, is worth a few inconsistencies. 
+ 
+At its best, SF is about the interaction of enormous future worlds and the people who live there. When it comes to that theme, PKD was little short of national treasure, as &quot;The Penultimate Truth&quot; proved once again. 
+ 
+Benshlomo says, The future won&apos;t save you, thank God. -- review 2 -- What afterword are you talking about? (EMAN NEP), I had the English SF masterwork version and there&apos;s no afterword. 
+ 
+Anyway overall this is another book which I recognize even without a cover that it&apos;s his work. To make it brief, the first part of the book is really confusin to me but since then I finished them within a few hours so I guess it must be good to a certain point. I will not say anything about the plot as others had already. Only want to add that the ending is very ambiguous (again) like many of his books leaving me wonder all kind of possibilities (and probably screaming for a sequel). 
+ 
+Well for K.dick&apos;s fans this is another must read but if you&apos;re not familiar with his work then you should considering other works that seem to be better and easier to get used to. 
+ -- review 3 -- This is a short book (~190 pages) but I think any fan of speculative fiction or science fiction should read this book for context. Written in 1964, it is pretty interesting the things Dick speculated might be the future. I was a little put off by the characters, none of which were very likable really. But still, a decent read. -- review 4 -- Originally written in the 1960s, the novel is primarily concerned with potential societal structures in a post-nuclear world, a favorite theme of the author&apos;s. Readers of some of the his short stories from the same period will notice repeating ideas, which may cause some irritation. 
+ 
+This book is driven by concept and plots, not characters. The characters are sketched in lightly, with detailing on the emotions and thoughts behind their actions. The dead bodies don&apos;t start piling up until the middle of the book. This novel is both a thriller and a sci-fi concept novel, but it is ultimately a meditation on power, attempts to hold onto power, and the morality of what people deem &quot;is unfortunate, but necessary.&quot; -- review 5 -- THE PENULTIMATE TRUTH [bugged] me into a world where 99% of humans live underground, hiding from a war on the surface created by the elite to keep them down. The protagonist ventures to the surface in order to obtain a replacement spleen for a prized anthill member. I am pleased to have more thoughts to share than this review can hold. At present I will begin by saying that THE PENULTIMATE TRUTH is great science- fiction because it relies on one of the most fascinating of sciences: psychology. The most important science in the novel is the complexity of the human brain, the body part that the engineers in the novel were not able to replace. 
+ I find the other themes that I noticed Dick dealing with, God, time, and &quot;othering,&quot; hard to capture. When I try I feel like I am trying to fit them into a snow cone with a little hole in the bottom: bits just keep escaping! Nevertheless, I shall make an attempt: 
+ Dick&apos;s mixed references to God demonstrate how difficult it is to define God&apos;s place in a world driven by science. One of his characters could actually be called Time, and this character would then be the most significant within the work. Finally, events in history that involve wiping out and moving entire populations of people travel forward in this novel with time, into a future where history is repeating itself. The only difference in this future is who the &quot;others&quot; are. 
+ Dick questions how important it is to decide where God fits, why the powers of memory and time-- which equal history-- are still ignored, and what the consequences of this neglect could be. Unless we want to end up like the masses in THE PENULTIMATE TRUTH, we should start thinking.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618606198523288</id>
+        <isbn-10>1400030110</isbn-10>
+        <isbn-13>9781400030118</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>The Penultimate Truth: A Novel</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618606198523288_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vintage</name>
+            </publisher>
+        </publishers>
+        <rating>7 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1400030110]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1400030110&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>The Penultimate Truth: A Novel</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Penultimate-Truth-Philip-K-Dick/dp/1400030110%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1400030110</webpage>
+        <year>2004</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Christopher Ross</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>In the tradition of Pico Iyer, a witty and revealing insider&apos;s journey through a modern Japan that outsiders seldom glimpse Publishers Weekly Ross (Tunnel Visions) pursues the life and especially the violent suicide by seppuku, or hara-kiri, of the Japanese writer Yukio Mishima, at age 45 in 1970. An English journalist who studied martial arts and later worked in Japan and learned Japanese, Ross was intrigued by overlaps in Mishima&apos;s life and his own, in terms of wondering how to make one&apos;s life more worthwhile and productive, and one&apos;s death &quot;magnificent.&quot; Mishima&apos;s novels harked back to the heroism of samurai warriors of early eras, and during his life he assiduously mastered the code of the knightly class and conditioned his body in ritual sword fighting. In fact, Ross learns that the famous sword Mishima used on himself in Tokyo&apos;s Eastern Army Group Headquarters was made by Seki no Magoroku in the 16th century, and has subsequently vanished. In between a visceral blow-by-blow account of Mishima&apos;s last hours, Ross alternates his detailed, gently meandering narrative with fascinating research into the art of Japanese sword making. Ross&apos;s journey is wonderfully elucidating, not only of the writer who wanted to ensure he lived forever but of a holistic history and culture of Japan. (Nov.) Copyright 2006 Reed Business Information. More Reviews and Recommendations Biography Christopher Ross lives in Paris. His first book, Tunnel Visions: Journeys of an Underground Philosopher, was a bestseller in the United Kingdom.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>BARNES_NOBLES</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618651796309791</id>
+        <isbn-10>0306815133</isbn-10>
+        <isbn-13>9780306815133</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Mishima&apos;s Sword</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages>272</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618651796309791_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Perseus Publishing</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Barnes &amp; Nobles / none / Keyword / value=[mishima s sword]</service>
+        <service-url>http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&amp;EAN=9780306815133</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Mishima&apos;s Sword</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&amp;EAN=9780306815133</webpage>
+        <year>2006</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Warren Ellis</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>DC&apos;s new editions of TRANSMETROPOLITAN begin here, with this volume collecting issues #1-6 of the acclaimed Vertigo series from writer Warren Ellis and artist Darick Robertson! After years of selfimposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job he hates and a city he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd century surroundings. 
+
+In this first volume, Spider ventures into the dangerous Angels 8 district, home of the Transients — humans who have decided to become aliens through cosmetic surgery. But Spider&apos;s interview with the Transients&apos; leader gets him a scoop he didn&apos;t bargain for. And don&apos;t miss Spider&apos;s first confrontation with the President of the United States . . . in a men&apos;s room. -- review 1 -- You should be offended by at least one thing in this book. Thats the point. It shocks you into attention since thats what it takes these days. But dont be fooled! This is not just some angry mans hate spewed onto paper, no, there are messages about life in here. Fancy that, entertaining AND enlightning. What a concept. 
+ And it works. The art is fantastic with a great use of the pages/layout. You really get sucked into it. There is no way for me to even explain how well written this is. Its just something you have to experience for yourself. You wont be dissapointed (unless your so closeminded, but then what are you doing here anyways?) 
+ bottom line. Essential Comic reading. No, Essential Life reading. -- review 2 -- Transmetropolitan was first released in trade paperbacks several years ago, with each volume containing three issues at a time. Now, the re-releases contain six issues per volume, and are cheaper than the original trades. 
+ 
+On top of that value, Transmet has one of the most compelling stories of any comic series I&apos;ve read (believe me, that&apos;s a lot.) Therefore, you have no excuse not to start collecting with these new releases! 
+ 
+Fans of Hunter S. Thompson&apos;s work will appreciate Spider Jerusalem&apos;s larger-than-life journalistic personality as he fights to discover the truth at all costs, including his own sanity. Similar to the &quot;Fear And Loathing&quot; stories, Transmet is full of twisted characters, rampant drug use, and the scummy parts of human life, all through the setting of a vaguely futuristic and corrupt America. If this sounds offensive to you, then don&apos;t bother: Transmetropolitan is meant for the reader who would want to hear the truth unfiltered and raw, in the most pure form of democracy. 
+ 
+Warren Ellis uses this series as an outlet after years of writing tame superhero comics, but never skimped out on his trademark strength of writing deep characters and flawlessly executed plot elements into his cyberpunk masterpiece, written during our own society&apos;s increasing involvement with the incorporation of technology into our personal lives. 
+ 
+This is at the least a highly entertaining read, and at its best a shockingly accurate window into human nature and an interesting look at what the future may actually hold for us. This is a perfect follow-up for a graphic novel fan in passing looking for the depth of Watchmen or Sandman, as well as an essential series for any true comics collector. -- review 3 -- It starts out a little slow, setting up background info, but it&apos;s definitely worth the wait. You won&apos;t be able to stop reading. -- review 4 -- Transmetropolitan is a great series, it&apos;s filled with quite a bit of punky, quirky, and deadly sci-fi elements, it&apos;s got great coloration and it seems quite well written. My only issue with it is that the main character seems almost completely ridiculous at times, making some of the issues unbelieveable. I suppose if you just distance reality, and don&apos;t take it seriously, it&apos;s quite the entertaining read.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618687658753217</id>
+        <isbn-10>1401220843</isbn-10>
+        <isbn-13>9781401220846</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Transmetropolitan Vol. 01: Back on the Street</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618687658753217_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vertigo</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[transmetropolitan vol  1  back on street]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1401220843&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Transmetropolitan Vol. 01: Back on the Street</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Transmetropolitan-Vol-01-Back-Street/dp/1401220843%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1401220843</webpage>
+        <year>2009</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Ryu Murakami</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>From postmodern Renaissance man Ryu Murakami, master of the psychothriller and director of Tokyo Decadence, comes this hair-raising roller-coaster ride through the nefarious neon-lit world of Tokyo’s sex industry. In the Miso Soup tells of Frank, an overweight American tourist who has hired Kenji to take him on a guided tour of Tokyo’s sleazy nightlife. But Frank’s behavior is so strange that Kenji begins to entertain a horrible suspicion—that his new client is in fact the serial killer currently terrorizing the city. It is not until later, however, that Kenji learns exactly how much he has to fear and how irrevocably his encounter with this great white whale of an American will change his life. -- review 1 -- This is the story of Kenji, a tour guide for foreign tourists, mostly for those seeking sex tours. He advertises in only one magazine which is a lower class porn magazine. Frank, an American Businessman, wants to hire Kenji for 2-3 days. Kenji agrees and thus the first night together begins. As it evolves, Kenji begins to get misgivings about &quot;Frank&quot; as he can seemingly hypnotize people, lies quite a bit and has a rather nasty and quick temper combined with his unusual strength and odd feeling skin. At the first night&apos;s end, Kenji is very disturbed by Frank&apos;s behavior at a practice golf session. When Kenji returns home, he shares his doubts and questions with his girlfriend, Jin. Then, in the morning, on Kenji&apos;s door is a surprise that makes him feel compelled to continue to work for Frank fearing what might happen if he quit. What occurs the second night leaves no doubt as to Frank&apos;s real personality and Kenji is himself hypnotized and helpless to do anything. The title reference to Miso soup is because Frank remarks that he had tried Miso soup once and to him, it appeared the soup was just a bunch of leftovers and dregs thrown into a pot and served as a soup besides which it smelled badly. Not a story for the squeamish! -- review 2 -- Translated from Japanese, Murakami is on of the stars of comtempo japanese literature. This book is about a tour guide in Tokyo&apos;s Red Light District. One day he recieves a very strange American man as a customer and through a series of psychotic events, he slowly discovered just what this man is. Its a thrilling if slightly macabre story with an intimate depiction of the jaded youth in Tokyo&apos;s bad parts. Really draws you in. I really loved the book. Read it summer of 10th grade. Not for everyone, though. -- review 3 -- In the Miso Soup is Ryu Murakami, that&apos;s for sure. You&apos;ve got about 10 pages of hardcore gore, and 10 more that are creepy without the core. But it&apos;s almost as if he were inserting the severed body parts to get at some deeper topics. 
+ In this book, Murakami&apos;s VERY critical about current Japanese society. Both with the loss of traditional culture, and rise of super-materialism. He&apos;s one of the most critical novelists I&apos;ve read when it comes to his own culture and society. In many ways, he reminds me of Phillip Wylie, an underrated American writer from the 50s-60s who used novels to criticize the conformist society. 
+ I asked one of my Japanese students about the 2 Murakamis (Haruki-- more popular in the US, and Ryo.) Haruki is for women and girls, he said. Ryu is for men and boys. 
+ Yeah the book is gory, gross. But there&apos;s a lot more to it than that. If you&apos;re at all familiar with Japanese society... especially if you LIKE Japanese society as I do... read this book for a completely other point of view. --Mykel Board (aka Michael) -- review 4 -- In the Miso Soup by Ryu Murakami is on the surface a gritty hard boiled thriller set in the Kabuki-cho red-light district of Tokyo as the approaching New Year leaves near empty except for the human wreckage of the city. Jimji a young illegal sex tourist guide makes a good but shady living from taking westerners around the girlie bars, peep shows, hookers that allow foreigners. 
+ 
+He meets up with Frank who hires him for three days but from the start Jimji feels something is wrong and he starts to be sucked into an ever deepening nightmare that threatens his and his girl friend existence. 
+ 
+The story is told in the 1st person from Jimji perspective and is based on clear fluid writing equal if not better then Haruki Murakami, which evokes the place and time so that you have a movie in your head. Not necessarily a good thing given some of things that happen. 
+ 
+Beneath the surface is a very different story which leads to conclusions and beginnings that can be misunderstood if psycho thriller is the readers&apos; sole expectation. We are instead being lead into mediation through the events affecting two desperate characters on what the Western and Japanese experience of loneliness is. The key passage for me is this one. 
+ 
+I remember the American making this particular confession, and the way his voice caught when he said &quot;accept it&quot;. Americans don&apos;t talk about just grinning and bearing it, which is the Japanese approach to so many things. After listening to a lot of these stories, I began to think that American loneliness is a completely different creature from anything we experience in this country, and it made me glad I was born Japanese. The type of loneliness where you need to keep struggling to accept a situation is fundamentally different from the sort you know you will get through if you just hang in there. I don&apos;t think I could stand the sort of loneliness Americans feel. 
+ 
+Reflect on what is being said here and you will enjoy a taut psychological thriller whose outcome makes perfect sense. Highly recommended 
+ -- review 5 -- This is a good thriller, and though it features an American deranged serial killer and Japanese victims, it avoids typecasting Japanese Good Foreigner Bad by including Kenji&apos;s thoughts Japanese society. Prepare to stay up reading, be shocked and frightened.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618724474529690</id>
+        <isbn-10></isbn-10>
+        <isbn-13></isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>In the Miso Soup</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618724474529690_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Penguin (Non-Classics)</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[014303569x]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=014303569X&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>In the Miso Soup</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Miso-Soup-Ryu-Murakami/dp/014303569X%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D014303569X</webpage>
+        <year>2006</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>William Gibson</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>One of the most important and influential novels of our time. Neuromancer is the multiple award-winning novel that launched the astonishing career of William Gibson. The first fully-realized glimpse of humankind&apos;s digital future, it is a shocking vision that has challenged our assumptions about our technology and ourselves, reinvented the way we speak and think, and forever altered the landscape of our imaginations. Now, for the first time, Ace Books is proud to present this groundbreaking literary achievement in a new trade paperback edition. Winner of science fiction&apos;s &quot;Triple Crown&quot;—the Hugo, Nebula, and Philip K. Dick awards. Includes the special afterword Gibson wrote for the 10th anniversary hardcover edition published by Ace. Gerald Jonas The 21st-century world of &apos;&apos;Neuromancer&apos;&apos; is freshly imagined, compellingly detailed and chilling in its implications....Mr. Gibson&apos;s style is all flash, and his characters are all pose without substance....The story moves faster than the speed of thought, but even when I wasn&apos;t sure what was happening, I felt confident that Mr. Gibson would pull me through, and he did. The &apos;&apos;cyberspace&apos;&apos; conceit allows him to dramatize computer hacking in nontechnical language, although I wonder how much his somewhat florid descriptions of the &apos;&apos;bodiless exultation of cyberspace&apos;&apos; will mean to readers who have not experienced the illusion of power that punching the keyboard of even a dinky little word-processor can give. (P.S. I still think &apos;&apos;Neuromancer&apos;&apos; is a terrible title.) -- New York Times More Reviews and Recommendations Biography William Gibson&apos;s feat of imagination, embodied by the seminal &quot;cyberpunk&quot; novel Neuromancer and subsequent sci-fi techno titles, was in presaging the Information Age and coining some of its language even as he remained a technological laggard who eschewed computers. More About the Author</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>BARNES_NOBLES</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618774398470984</id>
+        <isbn-10>0441012035</isbn-10>
+        <isbn-13>9780441012039</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Neuromancer</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages>384</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618774398470984_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Penguin Group (USA)</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Barnes &amp; Nobles / none / Keyword / value=[neuromancer]</service>
+        <service-url>http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&amp;EAN=9780441012039</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Neuromancer</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://search.barnesandnoble.com/booksearch/isbnInquiry.asp?z=y&amp;EAN=9780441012039</webpage>
+        <year>2004</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Warren Ellis</name>
+            </author>
+            <author>
+                <name>Darick Robertson</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Outlaw journalist Spider Jerusalem attacks the injustices of his surreal 21st Century through black humor as an investigative reporter for the newspaper The Word in this critically-acclaimed graphic novel series written by comics&apos; superstar Warren Ellis, the co-creator of PLANETARY and THE AUTHORITY.
+
+In this volume, Jerusalem targets three of society&apos;s most worshipped and warped pillars: politics, religion, and television. When Spider tries to shed light on the atrocities of these institutions, he finds himself fleeing a group of hitmen/kidnappers in possession of his ex-wife&apos;s frozen head, a distorted creature alleging to be his son, and a vicious talking police dog. -- review 1 -- Warren Ellis, Transmetropolitan: Lust for Life (DC, 1998) 
+ 
+The great thing about Transmetropolitan is that Warren Ellis seems to remember something that no satirist since Mark Twain has gotten right; while the heart of any satire is soaked in acid, the surface is supposed to be funny. It&apos;s not satire if it doesn&apos;t make us laugh at it (the humorless bastards who can&apos;t find anything funny in &quot;A Modest Proposal&quot; notwithstanding). And while Transmetropolitan mirrors most modern satire in that the heart is certainly soaked with acid, it is that rarest of commodities in that it also gets the surface bit right; it&apos;s damned funny, even as it wants to break our hearts. We&apos;re not supposed to like Spider Jerusalem all that much; he&apos;s addicted to everything, he treats his assistant like pure-D crap, he&apos;s misanthropic (though one thinks he takes entirely too much glee in his misanthropy to truly be a misanthrope). He&apos;s just plain not likable. And yet we can&apos;t help feeling for the guy, who just wants to make the world a slightly better place--even if his idea of how to go about that would involve tactical nuclear weapons. But really, haven&apos;t we all felt that way sometimes? (Hint: if you haven&apos;t, and you&apos;re considering purchasing this, you&apos;re in the wrong place. I&apos;d suggest considering the equally brilliant, but far more optimistic, Bleach, or maybe Hikaru no Go.) Transmetropolitan is satire at its finest, all the more so because Warren Ellis has never met a line he doesn&apos;t want to cross. I mean, come on, Spider Jerusalem&apos;s wife&apos;s severed, cryogenically-frozen head is kidnapped and still comes back to terrorize him like a penanggalan? Beautiful! **** 
+ 
+ -- review 2 -- This book was as good as the first one I bought.He is a prophet of our American Civilization. Someday; we will be like the society in his books. The best adult comic book writers come from United Kingdom. Since The UK is our best international friend; They earned the right to be our best critics. Again; As usual Amazon delivered. -- review 3 -- Even though subsequent volumes in Warren Ellis and Darick Robertson&apos;s TRANSMETROPOLITAN series would surpass this very diverse collection of stories, it is still a first rate addition to the series. It is always outrageous, frequently funny, sometimes absurd, but always stimulating. 
+ 
+There two aspects of the series that make it especially interesting to me. First, no other comic series explores the meaning of the media in general and the Fourth Estate in particular. For all his cynicism and rebelliousness, anti-hero Spider Jerusalem is a journalist who believes that reporting should strive to make the world a better place . . . or at least not quite so bad. Sometimes Spider&apos;s posing and stunts get in the way of that, but Ellis does manage to get the story back around to that conceit from time to time. Second, the series goes further than any other I know in looking at the furthest extremes of what people will do to remake and reconstruct themselves. Many writers have pointed out that ours is already a Cyborg culture. How else can you characterize someone who has an artificial hip, a pacemaker, and lasik eye surgery? Other writers, like Ray Kurzweil and Hans Moravec, have fantasized about a utopian future in which the human brain is sliced up and downloaded into a database, where one&apos;s consciousness can enjoy a virtual immortality (though personally, I just think of this as a bizarre way to die). Many of these notions are taken up and explored in the Transmet series. 
+ 
+The two books that begin the series are good, but newcomers should keep in mind that it gets much better in subsequent volumes. So while I recommend this, I even more strongly recommend reading the volumes that follow. -- review 4 -- This book too much focuses on &quot;being punk&quot; instead of focusing on story. There are great ideas but they are not really explored. -- review 5 -- Lust for Life is probably the weakest collection of Transmet. It falls in between the initial story arc, and when Helix Comics, was shut down and the title was moved to Vertigo. It has some nice establishing moments, and sets up some characters that will play critical roles through out the series. But, it&apos;s that point in between where the story starts and where it finds its feet. 
+It&apos;s still a part of the larger whole though, and can&apos;t be skipped if you&apos;re trying to read the series beginning to end. And Transmet is still one of the best comic series out there, so, even at its weakest, it continues to be a very strong piece. 
+In the end, if you haven&apos;t read the first trade, this is a poor place to start. If you did and disliked it, Lust for Life does expand the characters, but, you probably won&apos;t find anything to change your mind. If you loved the first trade, or just found it mildly enjoyable, it&apos;s worth continuing, though, mostly for where the series does find its feet, in the third trade.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618836343127550</id>
+        <isbn-10>1563894815</isbn-10>
+        <isbn-13>9781563894817</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Transmetropolitan Vol. 2: Lust for Life</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618836343127550_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Vertigo</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1563894815]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1563894815&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Transmetropolitan Vol. 2: Lust for Life</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Transmetropolitan-Vol-2-Lust-Life/dp/1563894815%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1563894815</webpage>
+        <year>1999</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Yutaka Nanten</name>
+            </author>
+            <author>
+                <name>Hajime Yadate</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-18</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>What’s money between friends? But, wait who said they were friends?The lone wolf – the wizened vet – the femme fatale – the smart-mouth kid when Spike, Jet, Faye and Ed get together; it can mean only one thing: carnage is about to ensue. In keeping with the popular but off-beat anime, the manga begins a series of original stories that take the action to a whole new level. Spike, Jet and Faye all end up after the same bounty, Spike goes after a convict who’s already in prison, and Faye (the con-artist she is) ends up the victim of a con not once, but twice. -- review 1 -- This book, despite the negative reviews, was actually fairly entertaining. The stories in book 1 kept me interested throughout (believe you me, its hard to keep my attention for too long). While they may not have been as exciting as the tv series the different scenarios kept you wondering what was going to happen next. The reason why this item wasn&apos;t as entertaining as it could have been, was the lack of music. The music made the anime so it was a kind of a bummer not to have it. But good news, you could listen to your own collection of music, which made the manga flow pretty well. If you like the series you might wanna take a look, if you&apos;re looking for something new...be my guest, no guarantees. =P -- review 2 -- This is a great anime series and this manga is really great! The pictures in it looks almost just like the real characters in the show. That&apos;s more then what i can say for a lot of manga&apos;s. If you are looking to buy a anime manga and like this show, you will most really enjoy this! -- review 3 -- Cowboy Bebop is apparently something of an anime/manga classic. One of the things to understand about manga is that these books lead double- and triple-lives that you&apos;re probably not aware of, as video games and/or animated television shows (anime). Lately, some manga has been introduced to the Japanese market simultaneously with the corresponding video game and animated television series, and many more established manga - like Cowboy Bebop - were enormously popular as anime at the same time they were being published as manga. (Although I think this volume came just after the TV series ended.) 
+ 
+Four bounty hunters hop around a futuristic universe on a ship called the Bebop tracking big-ticket criminals. The action is clean and well-drawn, but the stories are often sillier than I&apos;d like. I had also heard rumblings that my favorite TV show, Firefly, was a transparent rip-off of Cowboy Bebop, but beyond the fact that they travel on a space ship and have a cutesy genius mechanic, I don&apos;t see it. Then again, I&apos;ve only read volume one of this series, and there are many, many more books and videos out there. -- review 4 -- Great! while there is a lack of action scenes, and the couple don&apos;t last long, it&apos;s still a good read. The personality of each character is displayed well, which must be hard with these characters. 
+ 
+Overall it&apos;s a must get, wether you&apos;ve seen the bebop or not you can get right into it and begin. see you space cowboy... -- review 5 -- I won&apos;t write too much, but I thought the Cowboy Bebop books were very nicely drawn and had interesting storylines. Unlike the series, which mainly focuses on Spike&apos;s feelings for Julia and Vicious&apos; anger, the books add on to the ordinary but crazy days the bebop crew has trying to track down odd bounties. 
+ 
+I find these books very special - it shows the whole bebop crew together and expands upon their adventures, showing us that they were around together longer than the episodes made it seem. I love the series and I like the whole rivalry between Spike and Vcious as much as the next man, but I thought the series needed more time to show the whole group together like that. The books accomplish this, and I notice that they give you a different feel than most manga books. 
+ 
+I have yet to read the other mangas, but will eventually get them. Because futurisic stuff doesn&apos;t interest me as much as fantasy stuff, I gave this book a four, then I thought about it and changed it to a three when I figured &quot;I only have volume one, who am I to give it a good score if I haven&apos;t experienced the entire manga collection? Maybe the other books will wow me more?&quot;</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>618893401753985</id>
+        <isbn-10>1931514917</isbn-10>
+        <isbn-13>9781931514910</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Cowboy Bebop # 1</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/618893401753985_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>TokyoPop</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[1931514917]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1931514917&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Cowboy Bebop # 1</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Cowboy-Bebop-1-Hajime-Yadate/dp/1931514917%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1931514917</webpage>
+        <year>2002</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Miriam Levering</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2009-06-26</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>&lt;DIV From the complete koans of The Gateless Gate (a 13th–century collection of spiritual puzzles) to a generous selection of haiku, this inspirational anthology offers appealing Zen-based texts that bring insight and contemplation into busy modern lives. The excerpts, which include work both by the masters of the Golden Age of Zen as well as by contemporary writers, are not only thought-provoking and evocative, but rich in beauty and paradox.Many of the translations, as well as the foreword, are by Lucien Stryk, an esteemed poet and Zen practitioner, while scholar Dr. Miriam Levering places the writings in context and explores key concepts. Breathtaking photographs—many of them nature-based, with forest views, atmospheric skies, and rushing brooks—provide a magnificent visual framework. Readers are invited to open their imaginations to the harmony of text and image, and to let the quiet wisdom of both seep into their being.&lt;/DIV </description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>626874999779132</id>
+        <isbn-10>1844833151</isbn-10>
+        <isbn-13>9781844833153</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Zen Inspirations: Essential Meditations and Texts</label>
+        <languages>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-07-17</modified>
+        <pages></pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/626874999779132_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Duncan Baird</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[9781844833153]</service>
+        <service-url>http://webservices.amazon.com/onca/xml?Service=AWSECommerceService&amp;AWSAccessKeyId=1N37KF9JXJXVF9JEFB02&amp;Operation=ItemLookup&amp;ItemId=1844833151&amp;IdType=ASIN&amp;ResponseGroup=Large</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Zen Inspirations: Essential Meditations and Texts</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Zen-Inspirations-Essential-Meditations-Texts/dp/1844833151%3FSubscriptionId%3D1N37KF9JXJXVF9JEFB02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1844833151</webpage>
+        <year>2006</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Motoro Mase</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-07-17</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Congratulations! You have been randomly selected by the government...to DIE in 24 hours! R to L (Japanese Style). Sometimes people do &quot;shoot the messenger&quot;: Featuring Episode 5: Life Out of Control &amp;  Episode 6: The Loveliest Lie Dear Citizen: Thank you for your loyalty. You&apos;ve no doubt noticed that the world is a troubled place. People are apathetic, lazy, unmotivated. You&apos;ve probably asked yourself Why isn&apos;t anything being done to stop this systematic decline? Rest assured that measures are being taken. Beginning today, we will randomly select a different citizen who will be killed within 24 hours of notification. We believe this will help remind all people how precious life is and how important it is to be a productive, active member of society. Thank you for your continued attention and your cooperation and participation...</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>717142469682418</id>
+        <isbn-10>1421526808</isbn-10>
+        <isbn-13>9781421526805</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 3</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>224</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/717142469682418_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[9781421526805]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421526808&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-07-17T21%3A19%3A02Z&amp;Version=2009-03-31&amp;Signature=TVpl28SssKnkOj1GWQ6mhq</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 3</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-3/dp/1421526808%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421526808</webpage>
+        <year>2009</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Motoro Mase</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-07-17</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>R to L (Japanese Style). Featuring Episode 3: The Pure Love Drug &amp; Episode 4: The Night Before Leaving for War</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>717321754060365</id>
+        <isbn-10>1421526794</isbn-10>
+        <isbn-13>9781421526799</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 2</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>200</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/717321754060365_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[9781421526799]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421526794&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-07-17T21%3A18%3A27Z&amp;Version=2009-03-31&amp;Signature=Q2Cleen%2BzLIJrnleLcez</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 2</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-2/dp/1421526794%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421526794</webpage>
+        <year>2009</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Mase Motoro</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-07-17</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>R to L (Japanese Style)Congratulations! You have been randomly selected by the government…to DIE in 24 hours! Please enjoy your final day and take pride in the fact that your death will inspire others to live life to the fullest! Welcome to the world of Ikigami, the Death Notice, where to keep citizens on the straight and narrow path of productivity and prosperity, each day a different citizen is selected for termination! View the last 24 hours through the very eyes of the people slated to die for their country with no hope of reprieve! What people do when they have no hope of survival will shock you to your core in this frightening, dark series of stories! Dear Citizen: You’ve no doubt noticed that the world is a troubled place. People are apathetic, lazy, unmotivated. You’ve probably asked yourself: Why isn’t anything being done to stop this systematic decline? Well, you’ll be happy to know measures are being taken. We, your government, have decided society needs a wake-up call. So beginning today, we will randomly select a different citizen who will be killed within 24 hours of notification. We believe this will help remind all people how precious life is, and how important it is to be productive, active members of society. Thank you for your attention and your cooperation and participation in this new program.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>717433471025308</id>
+        <isbn-10>1421526786</isbn-10>
+        <isbn-13>9781421526782</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 1 (v. 1)</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>216</pages>
+        <picture-front></picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[9781421526782]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421526786&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-07-17T21%3A18%3A01Z&amp;Version=2009-03-31&amp;Signature=3YFzMdyDqmDQHF9HKoF2JW</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 1 (v. 1)</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-v/dp/1421526786%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421526786</webpage>
+        <year>2009</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Motoro Mase</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-07-17</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>R to L (Japanese Style). Congratulations! You have been randomly selected by the government...to DIE in 24 hours! Featuring: Episode 7: The Last Lesson &amp; Episode 8: A Peaceful PlaceCan a death messenger have a peaceful life?</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>717735578361937</id>
+        <isbn-10>1421526816</isbn-10>
+        <isbn-13>9781421526812</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 4</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>240</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/717735578361937_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating>10 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / Keywords / value=[9781421526812]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421526816&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-07-17T21%3A19%3A30Z&amp;Version=2009-03-31&amp;Signature=vBIyGYbY21OCCUH5Ji1FOL</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 4</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-4/dp/1421526816%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421526816</webpage>
+        <year>2010</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Motoro Mase</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-09-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>R to L (Japanese Style). Congratulations! You have been randomly selected by the government...to DIE in 24 hours! Featuring: Episode 9: The Writing on the WallEpisode 10: Honor and DutyWhere does a Death Messenger go on a date?</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>925500601905047</id>
+        <isbn-10>1421531658</isbn-10>
+        <isbn-13>9781421531656</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Ikigami: The Ultimate Limit, Vol. 5</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-09-02</modified>
+        <pages>232</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/925500601905047_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>VIZ Media LLC</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[9781421531656]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1421531658&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-09-03T00%3A57%3A17Z&amp;Version=2009-03-31&amp;Signature=2tQySt2p2Wr0O%2Fbw6IeK</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Ikigami: The Ultimate Limit, Vol. 5</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Ikigami-Ultimate-Limit-Vol-5/dp/1421531658%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1421531658</webpage>
+        <year>2010</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Clive Barker</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category></category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-09-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Living and dying, we feed the fire.  Will Rabjohns, perhaps the most famous wildlife photographer in the world, has made his reputation chronicling the fates of endangered species. But after a terrible accident, Will is left in a coma. And in its depths, he revisits the wildernesses of his youth and relives his life with a mysterious couple who have influenced his life as an artist and a man.  When Will awakens, he sets out on a journey of self-discovery--one where he will penetrate the ultimate mystery and finally unlock the secret of his destiny.  Soaring, provocative and passionate,  Sacrament is a masterwork from the pen of one of today&apos;s moist acclaimed authors.
+
+A boy has an encounter with a man who causes extinctions of  other species, so he grows up to be a man who documents (and thus  appeals for a halt to) those extinctions. This dark fantasy tale is  unlike Clive Barker&apos;s other recent ones: it is more tightly plotted,  and more of this world. In a sequence of well-executed stories  within stories (comparable to Russian dolls), Barker unfolds a  compelling examination of what it means to be human, to be a man, and  to be a gay man--on a planet where aging, disease, and death bring  &quot;the passing of things, of days and beasts and men he&apos;d  loved.&quot; A satisfying long novel packed with vivid images,  memorable characters, and a melancholy mood that reaches for hope.</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>926538911779382</id>
+        <isbn-10>0061091995</isbn-10>
+        <isbn-13>9780061091995</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Sacrament</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>624</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/926538911779382_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>HarperTorch</name>
+            </publisher>
+        </publishers>
+        <rating>8 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[0061091995]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=0061091995&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-09-03T00%3A54%3A45Z&amp;Version=2009-03-31&amp;Signature=mnER6N90AIuCFJm8aA8Ir8</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Sacrament</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Sacrament-Clive-Barker/dp/0061091995%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0061091995</webpage>
+        <year>1997</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Dat Nishiwaki</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Comic Book</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-09-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Shinji is nearly defeated, but everyone is in for a surprise when Rider&apos;s true master is revealed! Saber tells Shiro of her past, and why her noble phantasm is what it is, but no one is prepared when Caster starts a new onslaught. Tosaka is determined to put an end to Caster&apos;s machinations, but it may prove harder than she ever imagined...</description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>926614794056521</id>
+        <isbn-10>1427816298</isbn-10>
+        <isbn-13>9781427816290</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Fate/stay night Volume 7 (Fate/Stay Night (Tokyopop))</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified>2010-09-02</modified>
+        <pages>192</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/926614794056521_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>TokyoPop</name>
+            </publisher>
+        </publishers>
+        <rating></rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[9781427816290]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=1427816298&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-09-03T00%3A56%3A25Z&amp;Version=2009-03-31&amp;Signature=luDFxY1xCULaNSv%2FnxKm</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Fate/stay night Volume 7 (Fate/Stay Night (Tokyopop))</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Fate-stay-night-Night-Tokyopop/dp/1427816298%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1427816298</webpage>
+        <year>2010</year>
+    </book>
+    <book>
+        <item>Books</item>
+        <authors>
+            <author>
+                <name>Stephen King</name>
+            </author>
+        </authors>
+        <available></available>
+        <binding></binding>
+        <category>Thriller</category>
+        <container>
+        </container>
+        <countries>
+        </countries>
+        <created>2010-09-02</created>
+        <days-loaned></days-loaned>
+        <days-till-overdue></days-till-overdue>
+        <description>Lisey Debusher Landon lost her husband Scott two years ago, after a twenty-five year marriage of the most profound and sometimes frightening intimacy. Scott was an award-winning, bestselling novelist and a very complicated man. Early in their relationship, before they married, Lisey had to learn from him about books and blood and bools. Later, she understood that there was a place Scott went -- a place that both terrified and healed him, could eat him alive or give him the ideas he needed in order to live. Now it&apos;s Lisey&apos;s turn to face Scott&apos;s demons, Lisey&apos;s turn to go to Boo&apos;ya Moon. What begins as a widow&apos;s effort to sort through the papers of her celebrated husband becomes a nearly fatal journey into the darkness he inhabited. Perhaps King&apos;s most personal and powerful story ever, Lisey&apos;s Story is about the wellsprings of creativity, the temptations of madness, and the secret language of love.
+
+Since his first novel was published in 1974, Stephen King has stretched the boundaries of the written word, not only bringing horror to new heights, but trying his hand at nearly every possible genre, including children&apos;s books, graphic novels, serial novels, literary fiction, nonfiction, westerns, fantasy, and even e-books (remember The Plant?). With Lisey&apos;s Story, once again King is trying something different. Lisey&apos;s Story is as much a romance as it is a supernatural thriller--but don&apos;t let us convince you. Who better to tell readers if King has written a romantic thriller than Nora Roberts? We asked Nora to read Lisey&apos;s Story and give us her take. Check out her review below. --Daphne Durham    Guest Reviewer: Nora RobertsNora Roberts, who also writes under the pseudonym J.D. Robb, is the author of way too many bestselling books to name here (over 150!), but some of our favorites include: Angels Fall, Born in Death, Blue Smoke, and The Reef.   Stephen King hooked me about three decades ago with that sharply faceted, blood-stained jewel, The Shining. Through the years he&apos;s bumped my gooses with kiddie vampires, tingled my spine with beloved pets gone rabid, justified my personal fear of clowns and made me think twice about my cell phone. I&apos;ve always considered The Stand--a long-time favorite--a towering tour de force, and have owed its author a debt as this was the first novel I could convince my older son to read from cover to cover.    But with Lisey&apos;s Story, King has accomplished one more feat. He broke my heart.    Lisey&apos;s Story is, at its core, a love story--heart-wrenching, passionate, terrifying and tender. It is the multi-layered and expertly crafted tale of a twenty-five year marriage, and a widow&apos;s journey through grief, through discovery and--this is King, after all--through a nightmare scape of the ordinary and extraordinary. Through Lisey&apos;s mind and heart, the reader is pulled into the intimacies of her marriage to bestselling novelist Scott Landon, and through her we come to know this complicated, troubled and heroic man.      Two years after his death, Lisey sorts through her husband&apos;s papers and her own shrouded memories. Following the clues Scott left her and her own instincts, she embarks on a journey that risks both her life and her sanity. She will face Scott&apos;s demons as well as her own, traveling into the past and into Boo&apos;ya Moon, the seductive and terrifying world he&apos;d shown her. There lives the power to heal, and the power to destroy.    Lisey Landon is a richly wrought character of charm and complexity, of realized inner strength and redoubtable humor. As the central figure she drives the story, and the story is so vividly textured, the reader will draw in the perfumed air of Boo&apos;ya Moon, will see the sunlight flood through the windows of the Scott&apos;s studio--or the night press against them. Her voice will be clear in your ear as you experience the fear and the wonder. If your heart doesn&apos;t hitch at the demons she faces in this world and the other, if it doesn&apos;t thrill at her courage and endurance, you&apos;re going to need to check with a cardiologist, first chance.    Lisey&apos;s Story is bright and brilliant. It&apos;s dark and desperate. While I&apos;ll always consider The Shining, my first ride on King&apos;s wild Tilt-A-Whirl, a gorgeous, bloody jewel, I found, on this latest ride, a treasure box heaped with dazzling gems.    A few of them have sharp, hungry teeth. --Nora Roberts    </description>
+        <due-date></due-date>
+        <edition-comment></edition-comment>
+        <edition-type></edition-type>
+        <external-references>
+            <external-reference>
+                <type>PDCR</type>
+            </external-reference>
+            <external-reference>
+                <type>ASIN</type>
+            </external-reference>
+        </external-references>
+        <filehash></filehash>
+        <filehash-type></filehash-type>
+        <filename></filename>
+        <filesize></filesize>
+        <id>926782942289151</id>
+        <isbn-10>0743289412</isbn-10>
+        <isbn-13>9780743289412</isbn-13>
+        <item>Books</item>
+        <item-value></item-value>
+        <label>Lisey&apos;s Story</label>
+        <languages>
+            <language>
+                <name>English</name>
+            </language>
+        </languages>
+        <lend-by></lend-by>
+        <modified></modified>
+        <pages>528</pages>
+        <picture-front>file:////usr1/home/rob/datacrow/webapp/datacrow/mediaimages/926782942289151_PictureFront.jpg</picture-front>
+        <publishers>
+            <publisher>
+                <name>Scribner</name>
+            </publisher>
+        </publishers>
+        <rating>6 out of 10</rating>
+        <series></series>
+        <service>Amazon / us / ISBN / value=[9780743289412]</service>
+        <service-url>http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=AKIAJPGCFLGWOV3K3IHA&amp;IdType=ASIN&amp;ItemId=0743289412&amp;Operation=ItemLookup&amp;ResponseGroup=Large&amp;Service=AWSECommerceService&amp;Timestamp=2010-09-03T00%3A53%3A42Z&amp;Version=2009-03-31&amp;Signature=crCBZoV3%2BvV%2FaGREMc</service-url>
+        <state></state>
+        <storage-medium></storage-medium>
+        <title>Lisey&apos;s Story</title>
+        <user-long-text-field></user-long-text-field>
+        <user-numeric-field-1></user-numeric-field-1>
+        <user-numeric-field-2></user-numeric-field-2>
+        <user-short-text-field-1></user-short-text-field-1>
+        <user-short-text-field-2>Own</user-short-text-field-2>
+        <volume-nr></volume-nr>
+        <volume-name></volume-name>
+        <webpage>http://www.amazon.com/Liseys-Story-Stephen-King/dp/0743289412%3FSubscriptionId%3DAKIAJPGCFLGWOV3K3IHA%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0743289412</webpage>
+        <year>2006</year>
+    </book>
+</data-crow-objects>

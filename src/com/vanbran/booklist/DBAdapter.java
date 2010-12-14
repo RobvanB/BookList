@@ -20,7 +20,7 @@ public class DBAdapter
 	
 	private static final String DB_NAME = "BookList";
 	private static final String DB_TABLE = "tblBookList";
-	private static final int DB_VERSION = 1;
+	private static final int DB_VERSION = 2;
 	
 	private static final String DATABASE_CREATE =
 		"create table " + DB_TABLE + " (_id integer primary key autoincrement, " +

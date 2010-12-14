@@ -24,20 +24,15 @@ public class BookListMainAct extends Activity {
         	{
         		super.onCreate(savedInstanceState);
         		setContentView(R.layout.main);
-//        		titleFld = (EditText)findViewById(R.id.TitleVal);
-//        		authorFld = (EditText)findViewById(R.id.AuthorVal);
-        		
-//        		db.open();
-//        		rewardsTD.setText(String.valueOf(db.getAllRewards()));
-//        		rewardsMonthly.setText(String.valueOf(db.getMonthlyRewards()));
-//        		db.close();
         		
         		//Capture buttons from Layout
         		Button insertButton = (Button)findViewById(R.id.Insert);
         		Button searchButton = (Button)findViewById(R.id.Search);
+        		Button loadButton   = (Button)findViewById(R.id.Load);
         		//Register the onClick listener
         		insertButton.setOnClickListener(mAddListenerInsert);
-        		searchButton.setOnClickListener(mAddListenerSearch);        		
+        		searchButton.setOnClickListener(mAddListenerSearch);
+        		loadButton.setOnClickListener(mAddListenerLoad);
         	}
         	catch (Exception ex)
         	{
@@ -142,9 +137,29 @@ public class BookListMainAct extends Activity {
         			Toast toast = Toast.makeText(context, text, duration);
         			toast.show();
         		}
-        		
         		db.close();
-        	
         	}
         };
-    }
+        
+        //Create an anonymous implementation of OnClickListener for the Load
+        private OnClickListener mAddListenerLoad = new OnClickListener() 
+        {
+        	public void onClick(View v)
+        	{
+        		try
+        		{
+        			Intent intent = new Intent(BookListMainAct.this, LoadXML.class);
+        			startActivity(intent);
+        		}
+        		catch(Exception ex)
+        		{
+        			Context context = getApplicationContext();
+        			CharSequence text = ex.toString();
+        			int duration = Toast.LENGTH_LONG ;
+        			
+        			Toast toast = Toast.makeText(context, text, duration);
+        			toast.show();
+        		}
+        	}
+        };
+ 	}
