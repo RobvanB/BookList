@@ -20,13 +20,14 @@ public class DBAdapter
 	
 	private static final String DB_NAME = "BookList";
 	private static final String DB_TABLE = "tblBookList";
-	private static final int DB_VERSION = 2;
+	private static final int DB_VERSION = 4;
 	
 	private static final String DATABASE_CREATE =
 		"create table " + DB_TABLE + " (_id integer primary key autoincrement, " +
 		"Title text not null, " +
 		"Author text not null, " +
-		"Status text not null );" ;
+		"Status text not null, " +
+		"dcId long not null);" ;
 	
 	private final Context context;
 	
@@ -77,12 +78,13 @@ public class DBAdapter
 	}
 	
 	//Insert a Book into the db
-	public long insertBook(String _Author, String _Title, String _Status)
+	public long insertBook(String _Author, String _Title, String _Status, Long _dcId)
 	{
 		ContentValues initialValues = new ContentValues();
 		initialValues.put("Author", _Author);
 		initialValues.put("Title", _Title);
 		initialValues.put("Status", _Status);
+		initialValues.put("dcId", _dcId);
 				
 		return db.insert(DB_TABLE, null, initialValues);
 	}
@@ -100,6 +102,35 @@ public class DBAdapter
 	
 	public boolean deleteBook(long rowId){
 		return db.delete(DB_TABLE, "_id" + "=" + rowId, null) > 0;
+	}
+	
+	public int countBooks()
+	{
+		Cursor cursor = db.rawQuery("SELECT COUNT(_id) FROM " + DB_TABLE, null);
+		
+		if(cursor.moveToFirst()) {
+			return cursor.getInt(0);
+		}
+		return cursor.getInt(0);
+	}
+	
+	public Cursor findByDcId(Long _dcId)
+	{
+		String qStr = "SELECT * FROM " + DB_TABLE + " WHERE dcId = " + _dcId ;
+	
+		Cursor cursor = db.rawQuery(qStr, null);
+		return cursor ; 
+	}
+	
+	public boolean updateBook(long rowId, String _Author, String _Title, String _Status, Long _dcId)
+	{
+		ContentValues args = new ContentValues();
+		args.put("Title", _Title);
+		args.put("Author", _Author);
+		args.put("Status", _Status);
+		args.put("dcId", Long.toString(_dcId) );
+		
+		return db.update(DB_TABLE, args, "_id" + "=" + rowId, null) > 0;
 	}
 }
 

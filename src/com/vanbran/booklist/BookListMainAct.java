@@ -4,10 +4,14 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class BookListMainAct extends Activity {
@@ -17,9 +21,11 @@ public class BookListMainAct extends Activity {
     	EditText titleFld;
     	EditText authorFld;
     	EditText statusFld;
+    	TextView counterFld;
     	    		
         @Override
-        public void onCreate(Bundle savedInstanceState) {
+        public void onCreate(Bundle savedInstanceState) 
+        {
         	try
         	{
         		super.onCreate(savedInstanceState);
@@ -28,23 +34,69 @@ public class BookListMainAct extends Activity {
         		//Capture buttons from Layout
         		Button insertButton = (Button)findViewById(R.id.Insert);
         		Button searchButton = (Button)findViewById(R.id.Search);
-        		Button loadButton   = (Button)findViewById(R.id.Load);
         		//Register the onClick listener
         		insertButton.setOnClickListener(mAddListenerInsert);
         		searchButton.setOnClickListener(mAddListenerSearch);
-        		loadButton.setOnClickListener(mAddListenerLoad);
+        		
+        		//Set the counter
+        		//counterFld = (TextView) findViewById(R.id.counterVal);
+        		//counterFld.setText(countBooks().toString());
         	}
         	catch (Exception ex)
         	{
         		Context context = getApplicationContext();
         		CharSequence text = ex.toString();
-        		int duration = 5000 ; //Toast.LENGTH_LONG;
+        		int duration = 50000 ; //Toast.LENGTH_LONG;
         		
         		Toast toast = Toast.makeText(context, text, duration);
         		toast.show();
         	}
         }
         
+        @Override
+        public void onResume()
+        {
+        	super.onResume();
+        	//Set the counter
+    		counterFld = (TextView) findViewById(R.id.counterVal);
+    		counterFld.setText(countBooks().toString());
+        }
+        
+        @Override
+    	public boolean onCreateOptionsMenu(Menu menu)
+    	{
+    		//Inflate the menu
+    		MenuInflater menuInf = getMenuInflater();
+    		menuInf.inflate(R.menu.menu, menu);
+    		return true;
+    	}
+        
+        //Do something when the menu option is selected (there is only 1)
+        @Override
+        public boolean onOptionsItemSelected(MenuItem item)
+        {
+        	switch (item.getItemId())
+        	{
+        		case R.id.load_xml: 
+        			try
+            		{
+            			Intent intent = new Intent(BookListMainAct.this, LoadXML.class);
+            			startActivity(intent);
+            		}
+            		catch(Exception ex)
+            		{
+            			Context context = getApplicationContext();
+            			CharSequence text = ex.toString();
+            			int duration = Toast.LENGTH_LONG ;
+            			
+            			Toast toast = Toast.makeText(context, text, duration);
+            			toast.show();
+            		}
+            		break;
+        	}
+        	return true;
+        }
+
         //Create an anonymous implementation of OnClickListener for the insert
         private OnClickListener mAddListenerInsert = new OnClickListener() {
         	public void onClick(View v){
@@ -52,13 +104,14 @@ public class BookListMainAct extends Activity {
         		//Do something when the button is clicked
         		db.open();
         		try{
+        			Long dummyId = Long.valueOf(0) ;
         			titleFld = (EditText)findViewById(R.id.TitleVal);
         			authorFld = (EditText)findViewById(R.id.AuthorVal);
         			statusFld = (EditText)findViewById(R.id.StatusVal);
         			
         			id = db.insertBook(authorFld.getText().toString(),
         								titleFld.getText().toString(),
-        							   statusFld.getText().toString());
+        							   statusFld.getText().toString(), dummyId);
         			
         			//Clear the fields
         			titleFld.setText("");
@@ -141,25 +194,26 @@ public class BookListMainAct extends Activity {
         	}
         };
         
-        //Create an anonymous implementation of OnClickListener for the Load
-        private OnClickListener mAddListenerLoad = new OnClickListener() 
-        {
-        	public void onClick(View v)
-        	{
-        		try
-        		{
-        			Intent intent = new Intent(BookListMainAct.this, LoadXML.class);
-        			startActivity(intent);
-        		}
-        		catch(Exception ex)
-        		{
-        			Context context = getApplicationContext();
-        			CharSequence text = ex.toString();
-        			int duration = Toast.LENGTH_LONG ;
-        			
-        			Toast toast = Toast.makeText(context, text, duration);
-        			toast.show();
-        		}
+        private Integer countBooks()
+    	{
+    		Integer counted = 0;
+    		//Count the number of records so we can show the counter in the screen
+    		try
+    		{
+    			db.open();
+    			counted = db.countBooks();
+    			db.close();
+    		}    			
+    		catch(Exception ex)
+    		{
+        		Context context = getApplicationContext();
+        		CharSequence text = ex.toString();
+        		int duration = 50000 ; //Toast.LENGTH_LONG;
+        		
+        		Toast toast = Toast.makeText(context, text, duration);
+        		toast.show();
         	}
-        };
- 	}
+    		return counted;
+    	}
+
+}
