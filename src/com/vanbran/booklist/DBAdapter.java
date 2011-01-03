@@ -20,14 +20,14 @@ public class DBAdapter
 	
 	private static final String DB_NAME = "BookList";
 	private static final String DB_TABLE = "tblBookList";
-	private static final int DB_VERSION = 4;
+	private static final int DB_VERSION = 5;
 	
 	private static final String DATABASE_CREATE =
 		"create table " + DB_TABLE + " (_id integer primary key autoincrement, " +
 		"Title text not null, " +
 		"Author text not null, " +
 		"Status text not null, " +
-		"dcId long not null);" ;
+		"dcId text not null);" ;
 	
 	private final Context context;
 	
@@ -74,25 +74,25 @@ public class DBAdapter
 	//Close the DB
 	public void close()
 	{
-			DbHelper.close();
+		DbHelper.close();
 	}
 	
 	//Insert a Book into the db
-	public long insertBook(String _Author, String _Title, String _Status, Long _dcId)
+	public long insertBook(String _Author, String _Title, String _Status, String _dcId)
 	{
 		ContentValues initialValues = new ContentValues();
 		initialValues.put("Author", _Author);
-		initialValues.put("Title", _Title);
+		initialValues.put("Title",  _Title) ;
 		initialValues.put("Status", _Status);
-		initialValues.put("dcId", _dcId);
+		initialValues.put("dcId",   _dcId)  ;
 				
 		return db.insert(DB_TABLE, null, initialValues);
 	}
 	
 	public Cursor searchBooks(String _Author, String _Title, String _Status)
 	{
-		String qStr = "SELECT * FROM " + DB_TABLE + " WHERE Author like " + _Author + " AND Title like " + _Title  +
-			" AND Status like " + _Status ;
+		String qStr = "SELECT * FROM " + DB_TABLE + " WHERE Author like " + _Author + " AND Title like " +
+						_Title  + " AND Status like " + _Status ;
 		
 		//String qStr = "SELECT * FROM " + DB_TABLE ; 
 		
@@ -114,23 +114,28 @@ public class DBAdapter
 		return cursor.getInt(0);
 	}
 	
-	public Cursor findByDcId(Long _dcId)
+	public Cursor findByDcId(String _dcId)
 	{
-		String qStr = "SELECT * FROM " + DB_TABLE + " WHERE dcId = " + _dcId ;
+		String qStr = "SELECT * FROM " + DB_TABLE + " WHERE dcId = " + quoteIt(_dcId) ;
 	
 		Cursor cursor = db.rawQuery(qStr, null);
 		return cursor ; 
 	}
 	
-	public boolean updateBook(long rowId, String _Author, String _Title, String _Status, Long _dcId)
+	public boolean updateBook(long rowId, String _Author, String _Title, String _Status, String _dcId)
 	{
 		ContentValues args = new ContentValues();
-		args.put("Title", _Title);
+		args.put("Title" , _Title );
 		args.put("Author", _Author);
 		args.put("Status", _Status);
-		args.put("dcId", Long.toString(_dcId) );
+		args.put("dcId"  , _dcId  );
 		
 		return db.update(DB_TABLE, args, "_id" + "=" + rowId, null) > 0;
+	}
+	
+	public String quoteIt(String _str)
+	{
+		return "'" + _str + "'" ;	
 	}
 }
 

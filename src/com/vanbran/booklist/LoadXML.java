@@ -1,10 +1,8 @@
 package com.vanbran.booklist;
 
-import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.StringReader;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -17,7 +15,6 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
-import android.widget.ProgressBar;
 import android.widget.Toast;
 
 public class LoadXML extends Activity
@@ -55,7 +52,7 @@ public class LoadXML extends Activity
 		{
 			Context context = getApplicationContext();
 			CharSequence text = "XML Parser Exception: " + ex.toString() ;
-			int duration = 10000; //Toast.LENGTH_LONG ;
+			int duration = 500000; //Toast.LENGTH_LONG ;
 		
 			Toast toast = Toast.makeText(context, text, duration);
 			toast.show();
@@ -63,7 +60,7 @@ public class LoadXML extends Activity
 		catch(IOException ex)
 		{
 			Context context = getApplicationContext();
-			CharSequence text = "IO Exception: " + ex.toString() ;
+			CharSequence text = "ParseXML IO Exception: " + ex.toString() ;
 			int duration = 500000; //Toast.LENGTH_LONG ;
 		
 			Toast toast = Toast.makeText(context, text, duration);
@@ -73,7 +70,7 @@ public class LoadXML extends Activity
 		catch(Exception ex)
 		{
 			Context context = getApplicationContext();
-			CharSequence text = "Exception: " + ex.toString() ;
+			CharSequence text = "ParseXML Exception: " + ex.toString() ;
 			int duration = 5000000; //Toast.LENGTH_LONG ;
 		
 			Toast toast = Toast.makeText(context, text, duration);
@@ -88,21 +85,17 @@ public class LoadXML extends Activity
 	{
 		final File newXml = BookListMainAct.newXml ;		
 		final Activity thisActivity = activity ;
-		int	progress = 1;
-		ProgressBar	pBar ;
+		//ProgressBar	pBar ;
 				
 		setContentView(R.layout.load);
 		
-		pBar = (ProgressBar) findViewById(R.id.ProgressBar);
+		//pBar = (ProgressBar) findViewById(R.id.ProgressBar);
 	
 		String titleStr  = "" ;
 		String authorStr = "" ;
 		String statusStr = "" ;
-		long   dcId      = 0  ;
+		String dcId      = "" ;
 		String tagName   = "" ;
-		String xmlStr    = "" ;
-		String line		 = "" ;
-		String tmpStr    = "" ;
 		
 		//Parse the xml
 		XmlPullParserFactory  xppf = XmlPullParserFactory.newInstance() ;
@@ -121,55 +114,54 @@ public class LoadXML extends Activity
 		{
 			while (eventType != XmlPullParser.END_DOCUMENT)
 			{
-				tagName = xpp.getName();
+				tagName   = xpp.getName()     ;
+				eventType = xpp.getEventType();				
 				if (eventType == XmlPullParser.START_TAG)
 				{
 					if (tagName.equals("author"))
 					{
-						xpp = nextTag(xpp);	
-						eventType = xpp.getEventType(); //Debug
-						tmpStr = xpp.getText(); //Debug
+						xpp       = nextTag(xpp);	
 						if (xpp.getName().equals("name"))
 						{
-							tmpStr = xpp.getText();							
 							xpp.next(); //Get to the content
 							authorStr = xpp.getText();
 						}
 					}
 					else if (tagName.equals("title"))
 					{
-						xpp = nextTag(xpp);
+						xpp.next();
 						titleStr = xpp.getText();
 					}
 					else if (tagName.equals("user-short-text-field-2"))
 					{	
-						xpp = nextTag(xpp);
+						xpp.next();
 						statusStr = xpp.getText();
 					}
 					else if (tagName.equals("id"))
 					{
-						xpp = nextTag(xpp);
-						dcId = Long.parseLong(xpp.getText());
+						xpp.next();
+						dcId   = xpp.getText();
 					}
 				}	
 				if (eventType == XmlPullParser.END_TAG && tagName.equals("book"))
 				{
 					//Write the record
 					this.insert(titleStr, authorStr, statusStr, dcId);
-					titleStr = "";
+					titleStr  = "";
 					authorStr = "";
 					statusStr = "";
+					dcId	  = "";
 				}
-				progress = progress + 1;
-				pBar.incrementProgressBy(progress);
+				//progress = progress + 1;
+				//pBar.incrementProgressBy(progress);
 				xpp = nextTag(xpp);
 			}
 		}
 		catch(Exception ex)
 		{
     		Context context = getApplicationContext();
-    		CharSequence text = "XML Loop : " + ex.toString();
-    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		CharSequence text = "XML Loop: Error when processing tag " + tagName + ex.toString();
+    		int duration = 500000 ; //Toast.LENGTH_LONG;
     		
     		Toast toast = Toast.makeText(context, text, duration);
     		toast.show();
@@ -197,21 +189,26 @@ public class LoadXML extends Activity
 	{
 		try
 		{
-			_xpp.nextTag();
-			String tmpStr = _xpp.getName(); //Debug
-			int eventType = _xpp.getEventType();
-			while (eventType != XmlPullParser.START_TAG)
+			_xpp.next();
+			int eventType  = _xpp.getEventType();
+			String tagName =  ""                ;
+			while (eventType != XmlPullParser.START_TAG && eventType != XmlPullParser.END_DOCUMENT) 
 			{
 				_xpp.next();
-				tmpStr = _xpp.getName();	//Debug
-				eventType = _xpp.getEventType();					
+				tagName   = _xpp.getName()     ;	
+				eventType = _xpp.getEventType();		
+				if (eventType == XmlPullParser.END_TAG && 
+					tagName.equals("book")				  )
+				{
+					break;
+				}
 			}
 		}
 		catch(Exception ex)
 		{
 			Context context = getApplicationContext();
     		CharSequence text = "Next Tag : " + ex.toString();
-    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		int duration = 500000 ; //Toast.LENGTH_LONG;
     		
     		Toast toast = Toast.makeText(context, text, duration);
     		toast.show();
@@ -219,7 +216,7 @@ public class LoadXML extends Activity
 		return _xpp ;
 	}
 	
-	private void insert(String titleFld, String authorFld, String statusFld, Long dcId)
+	private void insert(String titleFld, String authorFld, String statusFld, String dcId)
 	{
 		try
 		{
@@ -254,7 +251,11 @@ public class LoadXML extends Activity
 				rowsInserted++;
 			}
 			
-			cursor.close();
+			if (cursor != null)
+			{
+				cursor.close();	
+			}
+			
 			/*
 			Context context = getApplicationContext();
     		CharSequence text = "Record with id " + id + " loaded to DB.";
@@ -267,8 +268,8 @@ public class LoadXML extends Activity
 		catch(Exception ex)
 		{
     		Context context = getApplicationContext();
-    		CharSequence text = ex.toString();
-    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		CharSequence text = "Insert Record: " + ex.toString();
+    		int duration = 500000 ; //Toast.LENGTH_LONG;
     		
     		Toast toast = Toast.makeText(context, text, duration);
     		toast.show();

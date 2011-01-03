@@ -86,11 +86,10 @@ public class LoginAsyncTask extends AsyncTask<Void, Void, Integer> {
         	if (mConfig != null && mConfig.authStatus == DropboxAPI.STATUS_SUCCESS) {
             	mDropboxMain.storeKeys(mConfig.accessTokenKey, mConfig.accessTokenSecret);
             	mDropboxMain.setLoggedIn(true);
-            	mDropboxMain.showToast("Logged into Dropbox");
+              //mDropboxMain.showToast("Logged into Dropbox");
             }
         	if (mAccount != null) {
         		mDropboxMain.displayAccountInfo(mAccount);
-        		//TODO: get the file
         	}
         } else {
         	if (result == DropboxAPI.STATUS_NETWORK_ERROR) {

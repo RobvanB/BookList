@@ -69,7 +69,7 @@ private void showList()
     	{
     		Context context = getApplicationContext();
     		CharSequence text = ex.toString();
-    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		int duration = 500000 ; //Toast.LENGTH_LONG;
     		
     		Toast toast = Toast.makeText(context, text, duration);
     		toast.show();

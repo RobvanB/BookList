@@ -40,6 +40,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -73,6 +74,7 @@ public class DropboxMain extends Activity
     private TextView mText;
     private Config mConfig;
     
+    //TODO: clean this up, not all code is used
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {

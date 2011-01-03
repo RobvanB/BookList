@@ -109,7 +109,7 @@ public class BookListMainAct extends Activity {
         		//Do something when the button is clicked
         		db.open();
         		try{
-        			Long dummyId = Long.valueOf(0) ;
+        			String dummyId = "dummy";
         			titleFld = (EditText)findViewById(R.id.TitleVal);
         			authorFld = (EditText)findViewById(R.id.AuthorVal);
         			statusFld = (EditText)findViewById(R.id.StatusVal);
@@ -190,7 +190,7 @@ public class BookListMainAct extends Activity {
         		{
         			Context context = getApplicationContext();
         			CharSequence text = ex.toString() ;
-        			int duration = 10000; //Toast.LENGTH_LONG ;
+        			int duration = 500000; //Toast.LENGTH_LONG ;
         			
         			Toast toast = Toast.makeText(context, text, duration);
         			toast.show();
