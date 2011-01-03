@@ -1,9 +1,12 @@
 package com.vanbran.booklist;
 
+import java.io.File;
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -22,6 +25,8 @@ public class BookListMainAct extends Activity {
     	EditText authorFld;
     	EditText statusFld;
     	TextView counterFld;
+    	
+    	public static final File newXml = new File(Environment.getExternalStorageDirectory() +"/dcandroidexport.xml"); 
     	    		
         @Override
         public void onCreate(Bundle savedInstanceState) 

@@ -1,16 +1,20 @@
 package com.vanbran.booklist;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.StringReader;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
+import org.xmlpull.v1.XmlPullParserFactory;
 
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
-import android.content.res.Resources;
-import android.content.res.XmlResourceParser;
+import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.widget.ProgressBar;
@@ -30,6 +34,17 @@ public class LoadXML extends Activity
 	{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.load);
+		
+		//Login to DropBox
+		Intent intent = new Intent(LoadXML.this, DropboxMain.class);
+		startActivityForResult(intent,1);
+	}	
+
+	@Override
+	protected void onActivityResult(int requestCode, int resultCode, Intent data)
+	{
+		super.onActivityResult(requestCode, resultCode, data);
+		
 		db.open();	
 		
 		try
@@ -71,6 +86,7 @@ public class LoadXML extends Activity
 	private void parseXML(Activity activity)
 	throws XmlPullParserException, IOException
 	{
+		final File newXml = BookListMainAct.newXml ;		
 		final Activity thisActivity = activity ;
 		int	progress = 1;
 		ProgressBar	pBar ;
@@ -79,59 +95,86 @@ public class LoadXML extends Activity
 		
 		pBar = (ProgressBar) findViewById(R.id.ProgressBar);
 	
-		String titleStr = "";
-		String authorStr = "";
-		String statusStr = "";
-		long dcId = 0;
-		String tagName = "";
-		Resources res = activity.getResources();
-		XmlResourceParser  xrp = res.getXml(R.xml.dcandroidexport);
-	
-		xrp.next();
-		int eventType = xrp.getEventType();
-		while (eventType != XmlPullParser.END_DOCUMENT)
+		String titleStr  = "" ;
+		String authorStr = "" ;
+		String statusStr = "" ;
+		long   dcId      = 0  ;
+		String tagName   = "" ;
+		String xmlStr    = "" ;
+		String line		 = "" ;
+		String tmpStr    = "" ;
+		
+		//Parse the xml
+		XmlPullParserFactory  xppf = XmlPullParserFactory.newInstance() ;
+		XmlPullParser xpp = xppf.newPullParser();
+		xpp.setInput(new FileReader(newXml));
+		xpp = nextTag(xpp);
+		/*
+		 * event types:
+		 * END_DOCUMENT = 1
+		 * START_TAG = 2
+		 * END_TAG = 3
+		 * TEXT = 4
+		 */
+		int eventType = xpp.getEventType();
+		try
 		{
-			tagName = xrp.getName();
-			if (eventType == XmlPullParser.START_TAG)
+			while (eventType != XmlPullParser.END_DOCUMENT)
 			{
-				if (tagName.equals("author"))
+				tagName = xpp.getName();
+				if (eventType == XmlPullParser.START_TAG)
 				{
-					eventType = xrp.next() ;
-					if (xrp.getName().equals("name"))
+					if (tagName.equals("author"))
 					{
-						xrp.next(); //Get to the content
-						authorStr = xrp.getText();
+						xpp = nextTag(xpp);	
+						eventType = xpp.getEventType(); //Debug
+						tmpStr = xpp.getText(); //Debug
+						if (xpp.getName().equals("name"))
+						{
+							tmpStr = xpp.getText();							
+							xpp.next(); //Get to the content
+							authorStr = xpp.getText();
+						}
 					}
-				}
-				else if (tagName.equals("title"))
+					else if (tagName.equals("title"))
+					{
+						xpp = nextTag(xpp);
+						titleStr = xpp.getText();
+					}
+					else if (tagName.equals("user-short-text-field-2"))
+					{	
+						xpp = nextTag(xpp);
+						statusStr = xpp.getText();
+					}
+					else if (tagName.equals("id"))
+					{
+						xpp = nextTag(xpp);
+						dcId = Long.parseLong(xpp.getText());
+					}
+				}	
+				if (eventType == XmlPullParser.END_TAG && tagName.equals("book"))
 				{
-					xrp.next();
-					titleStr = xrp.getText();
+					//Write the record
+					this.insert(titleStr, authorStr, statusStr, dcId);
+					titleStr = "";
+					authorStr = "";
+					statusStr = "";
 				}
-				else if (tagName.equals("user-short-text-field-2"))
-				{	
-					xrp.next();
-					statusStr = xrp.getText();
-				}
-				else if (tagName.equals("id"))
-				{
-					xrp.next();
-					dcId = Long.parseLong(xrp.getText());
-				}
-			}	
-			if (eventType == XmlPullParser.END_TAG && tagName.equals("book"))
-			{
-				//Write the record
-				this.insert(titleStr, authorStr, statusStr, dcId);
-				titleStr = "";
-				authorStr = "";
-				statusStr = "";
+				progress = progress + 1;
+				pBar.incrementProgressBy(progress);
+				xpp = nextTag(xpp);
 			}
-			xrp.next();
-			eventType = xrp.getEventType();
-			progress = progress + 1;
-			pBar.incrementProgressBy(progress);
 		}
+		catch(Exception ex)
+		{
+    		Context context = getApplicationContext();
+    		CharSequence text = "XML Loop : " + ex.toString();
+    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		
+    		Toast toast = Toast.makeText(context, text, duration);
+    		toast.show();
+    	}
+	
 		db.close();
 		//Show a nice dialog
 		AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -148,6 +191,32 @@ public class LoadXML extends Activity
 	
 		AlertDialog alert = builder.create();		
 		alert.show();
+	}
+	
+	private XmlPullParser nextTag(XmlPullParser _xpp)
+	{
+		try
+		{
+			_xpp.nextTag();
+			String tmpStr = _xpp.getName(); //Debug
+			int eventType = _xpp.getEventType();
+			while (eventType != XmlPullParser.START_TAG)
+			{
+				_xpp.next();
+				tmpStr = _xpp.getName();	//Debug
+				eventType = _xpp.getEventType();					
+			}
+		}
+		catch(Exception ex)
+		{
+			Context context = getApplicationContext();
+    		CharSequence text = "Next Tag : " + ex.toString();
+    		int duration = 5000 ; //Toast.LENGTH_LONG;
+    		
+    		Toast toast = Toast.makeText(context, text, duration);
+    		toast.show();
+		}
+		return _xpp ;
 	}
 	
 	private void insert(String titleFld, String authorFld, String statusFld, Long dcId)
@@ -184,6 +253,8 @@ public class LoadXML extends Activity
 				id = db.insertBook(authorFld, titleFld, statusFld, dcId);
 				rowsInserted++;
 			}
+			
+			cursor.close();
 			/*
 			Context context = getApplicationContext();
     		CharSequence text = "Record with id " + id + " loaded to DB.";

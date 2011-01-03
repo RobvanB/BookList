@@ -64,7 +64,6 @@ private void showList()
         		setListAdapter(allBooks);
         		registerForContextMenu(getListView());	//Needed for the 'delete' long press menu
         	}
-        	
 	    }
 		catch (Exception ex)
     	{
