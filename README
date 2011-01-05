@@ -1,10 +1,8 @@
-<H1>Android application to track your book collection.</H1>
-<P>
+Android application to track your book collection.
+
 Main goal is to quickly look up which books you have/need when in the bookstore.
-<UL>
-<LI>Uses <A HREF="http://www.DataCrow.net">DataCrow</A> as the main source, and imports data from this application.
-<LI>Uses <A HREF="http://www.DropBox.com">DropBox</A> to pull the export file from DataCrow into the Android App.
-</UL>
-<BR>
-Still in development.
-</P>
+
+Uses DataCrow (http://www.DataCrow.net) as the main source, and imports data from this application.
+Uses DropBox (http://www.DropBox.com) to pull the export file from DataCrow into the Android App.
+
+Still in development. ^^
