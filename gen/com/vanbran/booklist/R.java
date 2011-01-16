@@ -11,7 +11,10 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
+        public static final int database36=0x7f020000;
+        public static final int equalizer36=0x7f020001;
+        public static final int filter36=0x7f020002;
+        public static final int happy36=0x7f020003;
     }
     public static final class id {
         public static final int Author=0x7f060012;
@@ -25,6 +28,7 @@ public final class R {
         public static final int StatusVal=0x7f060003;
         public static final int Title=0x7f060011;
         public static final int TitleVal=0x7f060001;
+        public static final int about=0x7f060017;
         public static final int counterText=0x7f06000d;
         public static final int counterVal=0x7f06000e;
         public static final int load_xml=0x7f060016;
@@ -48,6 +52,7 @@ public final class R {
         public static final int menu=0x7f050000;
     }
     public static final class string {
+        public static final int about=0x7f040003;
         public static final int app_name=0x7f040000;
         public static final int delete=0x7f040001;
         public static final int load_xml=0x7f040002;

@@ -76,7 +76,7 @@ public class BookListMainAct extends Activity {
     		return true;
     	}
         
-        //Do something when the menu option is selected (there is only 1)
+        //Do something when a menu option is selected
         @Override
         public boolean onOptionsItemSelected(MenuItem item)
         {
@@ -98,6 +98,22 @@ public class BookListMainAct extends Activity {
             			toast.show();
             		}
             		break;
+        		case R.id.about: 
+        			try
+            		{
+            			Intent intent = new Intent(BookListMainAct.this, about.class);
+            			startActivity(intent);
+            		}
+            		catch(Exception ex)
+            		{
+            			Context context = getApplicationContext();
+            			CharSequence text = ex.toString();
+            			int duration = Toast.LENGTH_LONG ;
+            			
+            			Toast toast = Toast.makeText(context, text, duration);
+            			toast.show();
+            		}
+            		break;            		
         	}
         	return true;
         }

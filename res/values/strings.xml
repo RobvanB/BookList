@@ -3,4 +3,5 @@
     <string name="app_name">BookList</string>
     <string name="delete">Delete</string>
     <string name="load_xml">Load Books from DC XML file</string>
+	<string name="about">About</string>
 </resources>
