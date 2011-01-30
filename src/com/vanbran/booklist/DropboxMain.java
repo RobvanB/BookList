@@ -51,20 +51,16 @@ public class DropboxMain extends Activity
 {
     private static final String TAG = "BookListDropboxMain";
 
-    // Replace this with your consumer key and secret assigned by Dropbox.
-    // Note that this is a really insecure way to do this, and you shouldn't
-    // ship code which contains your key & secret in such an obvious way.
-    // Obfuscation is good.
     //TODO: look into ProGuard (SourceForge)
-    final static private String CONSUMER_KEY = "w0oblo2kac5k9v2";
-    final static private String CONSUMER_SECRET = "3pu161lgw064v97";
-    final static private String dbPath = "/dcexport.xml";
+    static private String CONSUMER_KEY 		= "";
+    static private String CONSUMER_SECRET 	= "";    
+    final static private String dbPath 		= "/dcexport.xml";
     
     private DropboxAPI api = new DropboxAPI();
 
-    final static public String ACCOUNT_PREFS_NAME = "prefs";
-    final static public String ACCESS_KEY_NAME = "ACCESS_KEY";
-    final static public String ACCESS_SECRET_NAME = "ACCESS_SECRET";
+    final static public String ACCOUNT_PREFS_NAME 	= "prefs";
+    final static public String ACCESS_KEY_NAME 		= "ACCESS_KEY";
+    final static public String ACCESS_SECRET_NAME 	= "ACCESS_SECRET";
 
     private boolean mLoggedIn;
     private EditText mLoginEmail;
@@ -79,10 +75,15 @@ public class DropboxMain extends Activity
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.dblogin);                
-        mLoginEmail = (EditText)findViewById(R.id.login_email);
-        mLoginPassword = (EditText)findViewById(R.id.login_password);
-        mSubmit = (Button)findViewById(R.id.login_submit);
-        mText = (TextView)findViewById(R.id.text);
+        mLoginEmail 		= (EditText)findViewById(R.id.login_email);
+        mLoginPassword 		= (EditText)findViewById(R.id.login_password);
+        mSubmit 			= (Button)findViewById(R.id.login_submit);
+        mText 				= (TextView)findViewById(R.id.text);
+
+        LoadConfig loadC 	= new LoadConfig();
+        loadC.init(getApplicationContext());
+        CONSUMER_KEY		= loadC.ConsKey() ;
+        CONSUMER_SECRET		= loadC.ConsSec() ;
         
         mSubmit.setOnClickListener(new OnClickListener() 
         {
